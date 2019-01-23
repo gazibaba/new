@@ -75,14 +75,18 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12068
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12067
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12066
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
-http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12057
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film now"  group-title="Filme",Film now
+http://212.8.243.9:80/adnan/123456/2737
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12049
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN WHITE"  group-title="Filme",AXN WHITE
-http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12050
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
+http://212.8.243.9:80/adnan/123456/10401
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
+http://212.8.243.9:80/adnan/123456/10413
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12054
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax HD"  group-title="Filme",Cinemax HD
+http://212.8.243.9:80/adnan/123456/10397
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12053
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
@@ -91,10 +95,18 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12081
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12079
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12088
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
+http://212.8.243.9:80/adnan/123456/10396
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 https://tinyurl.com/ycwk2c49
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
 https://tinyurl.com/y83gekku
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery"  group-title="Wild",Discovery
+http://212.8.243.9:80/adnan/123456/10395
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
+http://212.8.243.9:80/adnan/123456/10393
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name=" Discovery IDX"  group-title="Wild", Discovery IDX
+http://212.8.243.9:80/adnan/123456/10394
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12077
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
@@ -105,8 +117,12 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12056
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12059
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12058
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Crime Investigation"  group-title="Wild",Crime Investigation
+http://212.8.243.9:80/adnan/123456/10398
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12069
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DTX"  group-title="Wild",DTX
+http://212.8.243.9:80/adnan/123456/10392
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12090
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
@@ -147,20 +163,24 @@ https://tinyurl.com/ydz3pc3h
 http://77.36.61.147/hls/channel7/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
-http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
+http://212.8.243.9:80/adnan/123456/10399
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12060
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12052
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12074
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
+http://212.8.243.9:80/adnan/123456/10407
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="U Tv"  group-title="Muzica",U Tv
 http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zu TV HD"  group-title="Muzica",Zu TV HD
-http://restream.geniptv.com:8080/W4mujH7qfk/UKoMw4n59b/25521
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ZU TV"  group-title="Muzica",ZU TV
+http://212.8.243.9:80/adnan/123456/10385
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Music Channel"  group-title="Muzica",Music Channel
