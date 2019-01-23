@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/TVR1.ro.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
+http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/TVR2.ro.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
+http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Tv"  group-title="Generale",Pro Tv
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/126380
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ProTV HD"  group-title="Generale",ProTV HD
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14953.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12047
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14951.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12070
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12080
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National TV"  group-title="Generale",National TV
+http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
+http://d201h06fdwdct7.cloudfront.net/n24plus/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ProTV News"  group-title="Generale",ProTV News
+http://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Tv Chisinau HD"  group-title="Generale",Pro Tv Chisinau HD
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Moldova 1"  group-title="Generale",Moldova 1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Realitatea Tv"  group-title="Stiri",Realitatea Tv
+http://d201h06fdwdct7.cloudfront.net/realitatea/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
+http://195.42.138.43/livertmp/plus/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Romania TV"  group-title="Stiri",Romania TV
+https://tinyurl.com/ycbxzpj6
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12046
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
+https://tinyurl.com/yb5u5a4q
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
+http://d201h06fdwdct7.cloudfront.net/agrotv/ngrp:stream_all/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Profit.ro"  group-title="Stiri",Profit.ro
+https://tinyurl.com/14profit-ro
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
+https://tinyurl.com/ycyssnq5
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 1"  group-title="Sport",DIGI Sport 1
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14910.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14909.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 3"  group-title="Sport",DIGI Sport 3
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14874.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 4"  group-title="Sport",DIGI Sport 4
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14872.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12062
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
+http://qqtv.nl/live/wDamMY8yqr/4t8BMaU287/14852.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12084
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
+http://85.186.133.15/live/hls/stream1_q2/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
+https://tinyurl.com/99lookplus
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport"  group-title="Sport",Look Sport
+https://tinyurl.com/03looksport
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M 4 Sport"  group-title="Sport",M 4 Sport
+http://193.239.252.15/live/hls/stream3_q2/index.m3u8
+#EXTINF:0, tvg-id="RO: HBO" tvg-logo="Logo N/A" tvg-name="One TV HD"  group-title="Filme",One TV HD
+http://onetv.srfms.com:1935/OneTV/livestream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12068
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12067
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12066
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12057
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12049
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN WHITE"  group-title="Filme",AXN WHITE
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12050
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12054
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12053
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12081
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12079
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12088
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
+https://tinyurl.com/ycwk2c49
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
+https://tinyurl.com/y83gekku
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Wild",National Geographic
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12077
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12076
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12056
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12059
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12058
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12069
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12090
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
+https://tinyurl.com/y9mva3lr
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12091
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="IDA TV"  group-title="Wild",IDA TV
+https://tinyurl.com/y9flx6pf
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
+https://tinyurl.com/y9k7rbje
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
+http://d201h06fdwdct7.cloudfront.net/travelmix/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fish & Hunt"  group-title="Wild",Fish & Hunt
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12064
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12048
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
+https://tinyurl.com/09comedyplay
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12065
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
+https://tinyurl.com/y7to7edt
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
+https://tinyurl.com/y9ycwqqh
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR HD"  group-title="Diverse",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR 3"  group-title="Diverse",TVR 3
+http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR International"  group-title="Diverse",TVR International
+http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/chunklist_w188619173_b1200000.m3u8?__mn_sid=3569091635672452643
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
+https://tinyurl.com/02protvinternational
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena International"  group-title="Diverse",Antena International
+https://tinyurl.com/05antenainternational
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cook Play"  group-title="Diverse",Cook Play
+https://tinyurl.com/ydz3pc3h
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TvH"  group-title="Diverse",TvH
+http://77.36.61.147/hls/channel7/adaptive.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12060
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12052
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12074
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="U Tv"  group-title="Muzica",U Tv
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zu TV HD"  group-title="Muzica",Zu TV HD
+http://restream.geniptv.com:8080/W4mujH7qfk/UKoMw4n59b/25521
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Muzica",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Music Channel"  group-title="Muzica",Music Channel
+https://tinyurl.com/yc4ftlwa
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
+http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="H!T Music Channel"  group-title="Muzica",H!T Music Channel
+https://tinyurl.com/y9krkjhb
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz RO!"  group-title="Muzica",Mooz RO!
+https://tinyurl.com/yav6bh88
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz HD"  group-title="Muzica",Mooz HD
+https://tinyurl.com/y9kcc4wq
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dream TV"  group-title="Muzica",Dream TV
+https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
+http://d201h06fdwdct7.cloudfront.net/favorittv/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Etno"  group-title="Muzica",Etno
+http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diaspora TV HD"  group-title="Muzica",Diaspora TV HD
+http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tezaur Tv"  group-title="Muzica",Tezaur Tv
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
+https://tinyurl.com/ycp522nm
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Accent TV Oltenia"  group-title="Muzica",Accent TV Oltenia
+https://tinyurl.com/y8jd7qe4
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Noroc TV HD"  group-title="Muzica",Noroc TV HD
+http://live.noroc.tv:8081/livepkgr/live/livestream_1/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf TV"  group-title="Muzica",Taraf TV
+https://tinyurl.com/yagyvaov
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
+https://tinyurl.com/y8hx7q2b
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
+https://tinyurl.com/ybhfoysr
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Impact TV HD"  group-title="Muzica",Impact TV HD
+https://tinyurl.com/ybg3jjsr
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dibi TV HD"  group-title="Muzica",Dibi TV HD
+https://tinyurl.com/y87ymyxk
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Sud Est"  group-title="Locale",TV Sud Est
+https://tinyurl.com/yaqgdgkm
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
+https://tinyurl.com/ycsy3o9e
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BIT TV"  group-title="Locale",BIT TV
+https://tinyurl.com/ydfat6lt
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI 24 Oradea"  group-title="Locale",DIGI 24 Oradea
+http://81.196.0.126/digi24edge/digi24oradealivehls800k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI 24 Timisoara"  group-title="Locale",DIGI 24 Timisoara
+http://81.196.0.126/digi24edge/digi24timislivehls800k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI 24 Constanta"  group-title="Locale",DIGI 24 Constanta
+http://81.196.0.126/digi24edge/digi24constantalivehls800k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI 24 Craiova"  group-title="Locale",DIGI 24 Craiova
+http://81.196.0.126/digi24edge/digi24craiovalivehls800k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI 24 Iasi"  group-title="Locale",DIGI 24 Iasi
+http://81.196.0.126/digi24edge/digi24iasilivehls800k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI 24 Brasov"  group-title="Locale",DIGI 24 Brasov
+http://81.196.0.126/digi24edge/digi24brasovlivehls800k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
+http://mn-nl.mncdn.com/tvr_moldova/smil:TVRMOLDOVA.smil/chunklist_w990369866_b1200000.m3u8?__mn_sid=11568739683040144408
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Cluj"  group-title="Locale",TVR Cluj
+http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/chunklist_w720477026_b1200000.m3u8?__mn_sid=7215660395487330620
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Craiova"  group-title="Locale",TVR Craiova
+http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/chunklist_w570772822_b1200000.m3u8?__mn_sid=8512025290270500067
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Iasi"  group-title="Locale",TVR Iasi
+http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000.m3u8?__mn_sid=14755997706819151085
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Timisoara"  group-title="Locale",TVR Timisoara
+http://mn-nl.mncdn.com/tvr_timisoara/smil:TVRTIMISOARA.smil/chunklist_w430772517_b1200000.m3u8?__mn_sid=2545065761167676685
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR +"  group-title="Locale",TVR +
+http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/chunklist_w85719640.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Acum TV"  group-title="Locale",Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Orizont TV"  group-title="Locale",Orizont TV
+http://s3.streamnet.ro:8048/stream.flv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Iasi TV Life"  group-title="Locale",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="A 7 TV HD"  group-title="Locale",A 7 TV HD
+http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Intermedia TV"  group-title="Locale",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Sat"  group-title="Locale",TV Sat
+https://tinyurl.com/yab2zfbo
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Canal Regional"  group-title="Locale",Canal Regional
+https://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 Tv"  group-title="Locale",6 Tv
+http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
+http://89.38.8.130:39419
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trinitas"  group-title="Religioase",Trinitas
+http://d201h06fdwdct7.cloudfront.net/trinitas/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
+https://tinyurl.com/y7rqtkwe
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Credo TV"  group-title="Religioase",Credo TV
+https://tinyurl.com/y9dzycw6
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
+https://tinyurl.com/y8kuj4cu
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Trinity TV"  group-title="Religioase",Trinity TV
+https://tinyurl.com/y9mllw2g
