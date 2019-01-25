@@ -46,9 +46,9 @@ https://tinyurl.com/14profit-ro
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 https://tinyurl.com/ycyssnq5
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 1"  group-title="Sport",DIGI Sport 1
-http://95.216.69.25:8080/live/matteo/matteo1234/141637.m3u8
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/21515
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
-http://95.216.69.25:8080/live/matteo/matteo1234/141639.m3u8
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/21517
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 3"  group-title="Sport",DIGI Sport 3
 http://95.216.69.25:8080/live/matteo/matteo1234/65870.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 4"  group-title="Sport",DIGI Sport 4
@@ -58,7 +58,7 @@ http://95.216.69.25:8080/live/matteo/matteo1234/75027.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://95.216.69.25:8080/live/matteo/matteo1234/62978.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://95.216.69.25:8080/live/matteo/matteo1234/89362.m3u8
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/21518
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
 http://95.216.69.25:8080/live/matteo/matteo1234/113005.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
@@ -90,7 +90,7 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12049
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://95.216.69.25:8080/live/matteo/matteo1234/112894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
-http://95.216.69.25:8080/live/matteo/matteo1234/141568.m3u8
+http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12050
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12054
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
