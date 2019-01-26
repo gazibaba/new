@@ -5,12 +5,8 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Tv"  group-title="Generale",Pro Tv
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/126380
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ProTV HD"  group-title="Generale",ProTV HD
-http://95.216.69.25:8080/live/matteo/matteo1234/106047.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12047
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://95.216.69.25:8080/live/matteo/matteo1234/134499.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12070
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
@@ -49,26 +45,26 @@ https://tinyurl.com/ycyssnq5
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/21515
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/21517
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 3"  group-title="Sport",DIGI Sport 3
-http://95.216.69.25:8080/live/matteo/matteo1234/65870.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIGI Sport 4"  group-title="Sport",DIGI Sport 4
-http://95.216.69.25:8080/live/matteo/matteo1234/141642.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
-http://95.216.69.25:8080/live/matteo/matteo1234/75027.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
-http://95.216.69.25:8080/live/matteo/matteo1234/62978.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/21518
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
-http://95.216.69.25:8080/live/matteo/matteo1234/113005.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/762
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/761
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 1"  group-title="Sport",TeleKom Sport 1
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/16351
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 2"  group-title="Sport",TeleKom Sport 2
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/16352
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 3"  group-title="Sport",TeleKom Sport 3
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/16353
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 4"  group-title="Sport",TeleKom Sport 4
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/16356
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
-http://95.216.69.25:8080/live/matteo/matteo1234/62978.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
-http://95.216.69.25:8080/live/matteo/matteo1234/62976.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
-http://95.216.69.25:8080/live/matteo/matteo1234/145815.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
-http://95.216.69.25:8080/live/matteo/matteo1234/62973.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/16354
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 6"  group-title="Sport",TeleKom Sport 6
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/16355
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/775
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2"  group-title="Sport",EuroSport 2
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/766
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12084
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
@@ -85,36 +81,44 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12068
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12067
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12066
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/785
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12049
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://95.216.69.25:8080/live/matteo/matteo1234/112894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12050
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/5465
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25532
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25528
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Universal"  group-title="Filme",Universal
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/755
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12054
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12053
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://95.216.69.25:8080/live/matteo/matteo1234/160927.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12081
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12079
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25520
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12088
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
-http://95.216.69.25:8080/live/matteo/matteo1234/63031.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Filme",TLC
-http://95.216.69.25:8080/live/matteo/matteo1234/113010.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
-http://95.216.69.25:8080/live/matteo/matteo1234/90215.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/805
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 https://tinyurl.com/ycwk2c49
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
 https://tinyurl.com/y83gekku
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25155
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25157
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
-http://95.216.69.25:8080/live/matteo/matteo1234/63010.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25430
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12077
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
@@ -127,12 +131,14 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12059
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12058
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12069
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/781
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12090
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/5470
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
 https://tinyurl.com/y9mva3lr
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
-http://95.216.69.25:8080/live/matteo/matteo1234/140818.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="IDA TV"  group-title="Wild",IDA TV
 https://tinyurl.com/y9flx6pf
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
@@ -141,6 +147,10 @@ https://tinyurl.com/y9k7rbje
 http://d201h06fdwdct7.cloudfront.net/travelmix/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fish & Hunt"  group-title="Wild",Fish & Hunt
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12064
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25527
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25156
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12048
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
@@ -168,19 +178,21 @@ http://77.36.61.147/hls/channel7/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://95.216.69.25:8080/live/matteo/matteo1234/63027.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25531
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25529
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12060
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MegaMax"  group-title="Desene",MegaMax
-http://95.216.69.25:8080/live/matteo/matteo1234/75033.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/5464
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12074
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
-http://95.216.69.25:8080/live/matteo/matteo1234/141660.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/756
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://95.216.69.25:8080/live/matteo/matteo1234/112916.m3u8
+http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25530
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Muzica",MTV
