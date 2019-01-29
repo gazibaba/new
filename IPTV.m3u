@@ -6,9 +6,11 @@ http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="raz7" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/10942_logo_pro_tv5.png" tvg-name="Pro Tv"  group-title="Generale",Pro Tv
 http://ip.avov4.us:8000/live/hulusi07/07hulusi/2026.m3u8
 #EXTINF:0, tvg-id="raz7" tvg-logo="https://my.boboctv.com/channels/logo/protv-hd.png" tvg-name="Pro Tv HD"  group-title="Generale",Pro Tv HD
-http://tvpemobil.net/generaliste/live2/c5d27b2893afaccf7e3c1a82a7de8364/3.ts
+http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12153
 #EXTINF:0, tvg-id="raz17" tvg-logo="https://my.boboctv.com/channels/logo/antena-1.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://ip.avov4.us:8000/live/hulusi07/07hulusi/6906.m3u8
+#EXTINF:0, tvg-id="raz17" tvg-logo="" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
+http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/23.ts
 #EXTINF:0, tvg-id="raz97" tvg-logo="https://static.iptv-epg.com/ro/KanalD.ro.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://ip.avov4.us:8000/live/hulusi07/07hulusi/6901.m3u8
 #EXTINF:0, tvg-id="raz97" tvg-logo="https://static.iptv-epg.com/ro/KanalD.ro.png" tvg-name="Kanal D (S2)"  group-title="Generale",Kanal D (S2)
@@ -16,7 +18,7 @@ http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12139
 #EXTINF:0, tvg-id="raz97" tvg-logo="https://my.boboctv.com/channels/logo/kanald-hd.jpg" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://tvpemobil.net/generaliste/live5/c5d27b2893afaccf7e3c1a82a7de8364/5.ts
 #EXTINF:0, tvg-id="raz5" tvg-logo="https://my.boboctv.com/channels/logo/prima-tv.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://mototeamtv.tk:8000/live/AnelHasanovic/F3fl9G3Tfp/12154.m3u8
+http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/6.ts
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz48" tvg-logo="https://my.boboctv.com/channels/logo/n24.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -70,7 +72,7 @@ http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12498
 #EXTINF:0, tvg-id="raz28" tvg-logo="https://static.iptv-epg.com/ro/Eurosport1.ro.png" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
 http://ip.avov4.us:8000/live/hulusi07/07hulusi/6882.m3u8
 #EXTINF:0, tvg-id="raz65" tvg-logo="https://static.iptv-epg.com/ro/Eurosport2.ro.png" tvg-name="EuroSport 2"  group-title="Sport",EuroSport 2
-http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/766
+http://tvpemobil.net/sport/live1/tvdiaspora/romania/12.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12149
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
@@ -97,8 +99,10 @@ http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12116
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12115
 #EXTINF:0, tvg-id="raz33" tvg-logo="https://static.iptv-epg.com/ro/AXNBlack.ro.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12117
+#EXTINF:0, tvg-id="raz33" tvg-logo="" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
+http://tvpemobil.net/filme/live1/tvdiaspora/romania/14.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/ComedyCentralExtra.ro.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/19.ts
+http://tvpemobil.net/filme/live1/tvdiaspora/romania/19.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/DivaUniversal.ro.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
 http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/17.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIVA"  group-title="Filme",DIVA
@@ -121,6 +125,8 @@ http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12128
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12129
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
 http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/22.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Gold"  group-title="Filme",Pro Gold
+http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/26.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 https://tinyurl.com/ycwk2c49
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodClasic.ro.png" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
@@ -138,11 +144,13 @@ http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12135
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/DigiWorld.ro.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12134
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digilife.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
-http://ip.avov4.us:8000/live/hulusi07/07hulusi/2123.m3u8
+http://tvpemobil.net/documentare/live1/tvdiaspora/romania/1.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/HistoryChannel.ro.png" tvg-name="History"  group-title="Wild",History
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12105
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12100
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
+http://tvpemobil.net/documentare/live1/tvdiaspora/romania/7.ts
 #EXTINF:0, tvg-id="raz40" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12101
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
@@ -156,7 +164,7 @@ http://d201h06fdwdct7.cloudfront.net/travelmix/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/FishingHunting.ro.png" tvg-name="Fish & Hunt"  group-title="Wild",Fish & Hunt
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12103
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro 2"  group-title="Wild",Pro 2
-http://ip.avov4.us:8000/live/hulusi07/07hulusi/6872.m3u8
+http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/25.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/AntenaStars.ro.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://mototeamtv.tk:8000/AnelHasanovic/F3fl9G3Tfp/12142
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
@@ -184,9 +192,9 @@ http://77.36.61.147/hls/channel7/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="raz53" tvg-logo="https://static.iptv-epg.com/ro/CartoonNetwork.ro.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25531
+http://tvpemobil.net/deseneanimate/live1/tvdiaspora/romania/11.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/disney-channel.png" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25529
+http://tvpemobil.net/deseneanimate/live1/tvdiaspora/romania/10.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/DisneyJunior.ro.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12060
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Megamax.ro.png" tvg-name="MegaMax"  group-title="Desene",MegaMax
@@ -196,9 +204,9 @@ http://193.200.164.67:8000/cwPqhN7Ntm/xfctqHeESd/12074
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="raz110" tvg-logo="https://static.iptv-epg.com/ro/Nickelodeon.ro.png" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
-http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/756
+http://tvpemobil.net/deseneanimate/live1/tvdiaspora/romania/8.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/DaVinciLearning.ro.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://restream.geniptv.com:8080/7updv2Puld/UxLqn5Ee9R/25530
+http://tvpemobil.net/documentare/live1/tvdiaspora/romania/17.ts
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
