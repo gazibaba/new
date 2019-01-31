@@ -11,6 +11,8 @@ http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2811.m3u8
 http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/23.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2828.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D (S2)"  group-title="Generale",Kanal D (S2)
+http://5.254.66.150:25461/live/hichem123/123hichem/11196.m3u8
 #EXTINF:0, tvg-id="raz97" tvg-logo="https://my.boboctv.com/channels/logo/kanald-hd.jpg" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://tvpemobil.net/generaliste/live5/c5d27b2893afaccf7e3c1a82a7de8364/5.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
@@ -55,8 +57,12 @@ http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2787.m3u8
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2786.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2784.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1 (S2)"  group-title="Sport",Eurosport 1 (S2)
+http://5.254.66.150:25461/live/hichem123/123hichem/11203.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2783.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 (S2)"  group-title="Sport",Eurosport 2 (S2)
+http://5.254.66.150:25461/live/hichem123/123hichem/11202.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2785.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
@@ -69,16 +75,20 @@ https://tinyurl.com/03looksport
 http://193.239.252.15/live/hls/stream3_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Sport",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2800.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
+http://5.254.66.150:25461/live/hichem123/123hichem/11200.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2825.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
+http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2800.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2819.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2824.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2823.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
+http://5.254.66.150:25461/live/hichem123/123hichem/11219.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2816.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
@@ -89,6 +99,8 @@ http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2799.m3u8
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2801.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/ComedyCentralExtra.ro.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
 http://tvpemobil.net/filme/live1/tvdiaspora/romania/19.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
+http://5.254.66.150:25461/live/hichem123/123hichem/11182.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/DivaUniversal.ro.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
 http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/17.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
@@ -155,6 +167,8 @@ https://tinyurl.com/ydz3pc3h
 http://77.36.61.147/hls/channel7/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
+http://5.254.66.150:25461/live/hichem123/123hichem/11216.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2822.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
