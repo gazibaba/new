@@ -47,7 +47,7 @@ http://d201h06fdwdct7.cloudfront.net/agrotv/ngrp:stream_all/playlist.m3u8
 https://tinyurl.com/14profit-ro
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 https://tinyurl.com/ycyssnq5
-#EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="DIGI Sport 1"  group-title="Sport",DIGI Sport 1
+#EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
 https://sblive.online/lba/123/g4/ds1ro.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digi-sport-2-hd.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 https://sblive.online/lba/123/g2/digisport2ro.m3u8
@@ -73,7 +73,7 @@ https://tinyurl.com/99lookplus
 https://tinyurl.com/03looksport
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M 4 Sport"  group-title="Sport",M 4 Sport
 http://193.239.252.15/live/hls/stream3_q2/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Sport",TV ONE HD
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://5.254.66.150:25461/live/hichem123/123hichem/11200.m3u8
