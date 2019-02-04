@@ -17,10 +17,14 @@ http://37.59.111.212:1000/antena1-
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8699.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/658.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D (S2)"  group-title="Generale",Kanal D (S2)
+http://37.59.111.212:1000/kanald-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/18349.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/647.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
+http://tvservice.pro:80/live/915062921234/3FSOgB7tOV0dr6g/2806.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz48" tvg-logo="https://my.boboctv.com/channels/logo/n24.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
