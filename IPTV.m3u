@@ -8,19 +8,19 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/645.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV (S2)"  group-title="Generale",Pro TV (S2)
 http://37.59.111.212:1000/protv-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/46945.m3u8
+http://37.59.111.212:1000/protv_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/694.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 (S2)"  group-title="Generale",Antena 1 (S2)
 http://37.59.111.212:1000/antena1-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8699.m3u8
+http://37.59.111.212:1000/antena1_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/658.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D (S2)"  group-title="Generale",Kanal D (S2)
 http://37.59.111.212:1000/kanald-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/18349.m3u8
+http://37.59.111.212:1000/kanal_d_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/647.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
@@ -84,7 +84,7 @@ http://193.239.252.15/live/hls/stream3_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8684.m3u8
+http://37.59.111.212:1000/hbo_hd-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/661.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
@@ -106,7 +106,7 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/684.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/685.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/16591.m3u8
+http://37.59.111.212:1000/film_cafe_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/648.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
@@ -281,6 +281,8 @@ https://canalregional.md/tv/live/canalregional.m3u8
 http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
+http://37.59.111.212:1000/superone_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
