@@ -63,6 +63,10 @@ https://sblive.online/lba/123/g2/digisport2ro.m3u8
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/676.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/675.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
+http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/19.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
+http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/20.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/668.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1 HD"  group-title="Sport",EuroSport 1 HD
@@ -110,7 +114,7 @@ http://37.59.111.212:1000/film_cafe_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/648.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8662.m3u8
+http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/38.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/16589.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
@@ -154,7 +158,7 @@ https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/travel-mix.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
 http://d201h06fdwdct7.cloudfront.net/travelmix/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/16590.m3u8
+http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/30.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
 https://tinyurl.com/09comedyplay
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
