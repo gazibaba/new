@@ -4,19 +4,13 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 #EXTINF:0, tvg-id="raz2" tvg-logo="https://my.boboctv.com/channels/logo/tvr-2.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV"  group-title="Generale",Pro TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2834.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/645.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2811.m3u8
-#EXTINF:0, tvg-id="raz17" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/23.ts
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/694.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2828.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D (S2)"  group-title="Generale",Kanal D (S2)
-http://193.200.164.163:80/live/Veton/Veton/2828.m3u8
-#EXTINF:0, tvg-id="raz97" tvg-logo="https://my.boboctv.com/channels/logo/kanald-hd.jpg" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://m-iptv.net:6204/mohammed8Us8sk/jshzuygg7ygz790/9044
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/658.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2806.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/647.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz48" tvg-logo="https://my.boboctv.com/channels/logo/n24.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -38,7 +32,7 @@ http://46.20.136.59/live3/_definst_/canal33/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/romania-tv.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
 https://tinyurl.com/ycbxzpj6
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2810.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/693.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Na%C5%9FulTV.ro.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
 https://tinyurl.com/yb5u5a4q
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
@@ -52,35 +46,15 @@ https://sblive.online/lba/123/g4/ds1ro.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digi-sport-2-hd.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
 https://sblive.online/lba/123/g2/digisport2ro.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2787.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/676.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2786.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 6 HD RO"  group-title="Sport",TeleKom Sport 6 HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/16355
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 5 HD RO"  group-title="Sport",TeleKom Sport 5 HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/16354
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 4 HD RO"  group-title="Sport",TeleKom Sport 4 HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/16356
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 3 HD RO"  group-title="Sport",TeleKom Sport 3 HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/16353
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 2 HD RO"  group-title="Sport",TeleKom Sport 2 HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/16352
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TeleKom Sport 1 HD RO"  group-title="Sport",TeleKom Sport 1 HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/16351
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1 RO"  group-title="Sport",EuroSport 1 RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/775
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2 RO"  group-title="Sport",EuroSport 2 RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/766
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2784.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1 (S2)"  group-title="Sport",Eurosport 1 (S2)
-http://193.200.164.163:80/live/Veton/Veton/2784.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2783.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 (S2)"  group-title="Sport",Eurosport 2 (S2)
-http://193.200.164.163:80/live/Veton/Veton/2783.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2785.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/675.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/668.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2"  group-title="Sport",EuroSport 2
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/667.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/641.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://85.186.133.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
@@ -92,81 +66,53 @@ http://193.239.252.15/live/hls/stream3_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
-http://193.200.164.163:80/live/Veton/Veton/2826.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://m-iptv.net:6204/mohammed8Us8sk/jshzuygg7ygz790/9045
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/661.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2825.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/663.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2800.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/662.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2819.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/680.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2824.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/690.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2823.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black RO"  group-title="Filme",AXN Black RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/5465
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin RO"  group-title="Filme",AXN Spin RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/25532
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/689.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/691.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2816.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/684.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2815.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/685.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2799.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/648.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2801.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Universal HD RO"  group-title="Filme",Universal HD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/755
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/ComedyCentralExtra.ro.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://tvpemobil.net/filme/live1/tvdiaspora/romania/19.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/DivaUniversal.ro.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
-http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/17.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DIVA TV RO"  group-title="Filme",DIVA TV RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/25528
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC RO"  group-title="Filme",AMC RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/25520
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2796.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV1000 RO"  group-title="Filme",TV1000 RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/778
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Filmcafe.ro.png" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/15.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
-http://tvpemobil.net/filme/live1/c5d27b2893afaccf7e3c1a82a7de8364/16.ts
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Gold"  group-title="Filme",Pro Gold
-http://tvpemobil.net/generaliste/live1/tvdiaspora/romania/26.ts
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/646.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 https://tinyurl.com/ycwk2c49
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodClasic.ro.png" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
 https://tinyurl.com/y83gekku
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO.GOLD RO"  group-title="Filme",PRO.GOLD RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/9347
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet RO"  group-title="Wild",Animal Planet RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/25155
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2792.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2832.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/651.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel RO"  group-title="Wild",Discovery Channel RO
-http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/25157
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/673.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science RO"  group-title="Wild",Discovery Science RO
 http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/25430
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2821.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/674.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2820.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/679.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2818.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/681.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2793.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/665.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2827.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/660.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2840.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/625.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2839.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/626.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer RO"  group-title="Wild",Viasat Explorer RO
 http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/5470
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
@@ -188,7 +134,7 @@ http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2807.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
 https://tinyurl.com/09comedyplay
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2805.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/664.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 https://tinyurl.com/y7to7edt
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
@@ -218,15 +164,15 @@ http://portal.geniptv.com:8080/NREkxDl44C/J4LpCL5Tma/790
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://5.254.66.150:25461/live/hichem123/123hichem/11216.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2822.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/671.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
 http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2830.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/655.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2802.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/654.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
-http://tvservice.pro:80/live/917722561600/SCtSzmtpwJ7zbbz/2833.m3u8
+http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/649.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning RO"  group-title="Desene",Da Vinci Learning RO
