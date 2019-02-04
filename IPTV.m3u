@@ -5,10 +5,14 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV"  group-title="Generale",Pro TV
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/645.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV (S2)"  group-title="Generale",Pro TV (S2)
+http://37.59.111.212:1000/protv-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/46945.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/694.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 (S2)"  group-title="Generale",Antena 1 (S2)
+http://37.59.111.212:1000/antena1-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8699.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
@@ -57,8 +61,12 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/676.m3u8
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/675.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/668.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1 HD"  group-title="Sport",EuroSport 1 HD
+http://37.59.111.212:1000/eurosport1_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2"  group-title="Sport",EuroSport 2
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/667.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2 HD"  group-title="Sport",EuroSport 2 HD
+http://37.59.111.212:1000/eurosport2_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/641.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
@@ -83,6 +91,8 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/662.m3u8
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/680.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/690.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
+http://37.59.111.212:1000/axn_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/689.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
