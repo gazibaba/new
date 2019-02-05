@@ -18,7 +18,7 @@ http://37.59.111.212:1000/antena1_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/658.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D (S2)"  group-title="Generale",Kanal D (S2)
-http://37.59.111.212:1000/kanald-
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://37.59.111.212:1000/kanal_d_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
