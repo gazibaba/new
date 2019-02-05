@@ -115,6 +115,8 @@ http://37.59.111.212:1000/axn_hd_c-
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/689.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/691.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25532.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/684.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
