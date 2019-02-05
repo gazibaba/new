@@ -114,7 +114,7 @@ http://37.59.111.212:1000/axn_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/689.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/691.m3u8
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/5465.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25532.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
@@ -123,12 +123,16 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/684.m3u8
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/685.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
 http://37.59.111.212:1000/film_cafe_c-
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25528.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/648.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/38.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
 http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14647.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/646.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2"  group-title="Filme",PRO 2
@@ -141,8 +145,10 @@ https://tinyurl.com/ycwk2c49
 https://tinyurl.com/y83gekku
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/651.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel RO"  group-title="Wild",Discovery Channel RO
-http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/673.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25157.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25430.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/674.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
@@ -202,7 +208,7 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/655.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/654.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14628.m3u8
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25530.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/649.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
