@@ -47,8 +47,6 @@ http://46.20.136.59/live3/_definst_/canal33/playlist.m3u8
 https://tinyurl.com/ycbxzpj6
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/693.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Na%C5%9FulTV.ro.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-https://tinyurl.com/yb5u5a4q
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
 http://d201h06fdwdct7.cloudfront.net/agrotv/ngrp:stream_all/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Profit.ro"  group-title="Stiri",Profit.ro
@@ -128,11 +126,11 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/648.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/38.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/16589.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14647.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/646.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2"  group-title="Filme",PRO 2
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/34567.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14635.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/34566.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
@@ -143,10 +141,6 @@ https://tinyurl.com/y83gekku
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/651.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel RO"  group-title="Wild",Discovery Channel RO
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/673.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery science"  group-title="Wild",Discovery science
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/18358.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery ID"  group-title="Wild",Discovery ID
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/18359.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/674.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
@@ -198,17 +192,17 @@ http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14631.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8691.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14614.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/671.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/655.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/654.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14628.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/649.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="Desene",Nick Jr
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/41605.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
@@ -240,7 +234,7 @@ https://tinyurl.com/y8jd7qe4
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Noroc TV HD"  group-title="Muzica",Noroc TV HD
 http://live.noroc.tv:8081/livepkgr/live/livestream_1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/taraf-tv.png" tvg-name="Taraf TV"  group-title="Muzica",Taraf TV
-https://tinyurl.com/yagyvaov
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14584.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 https://tinyurl.com/y8hx7q2b
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
