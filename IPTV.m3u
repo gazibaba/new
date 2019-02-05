@@ -71,6 +71,14 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/675.m3u8
 http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/19.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://62.210.245.97:25461/live/hsYI89KFsu73AAo9/sKtsn67WWWl7543pREtr/20.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24227.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24228.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24229.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/16547.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/668.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1 HD"  group-title="Sport",EuroSport 1 HD
@@ -80,7 +88,7 @@ http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/667.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2 HD"  group-title="Sport",EuroSport 2 HD
 http://37.59.111.212:1000/eurosport2_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
-http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/641.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14640.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://85.186.133.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
@@ -94,13 +102,13 @@ http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Filme",HBO HD
 http://37.59.111.212:1000/hbo_hd-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
-http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/661.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14604.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/663.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/16559.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/662.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
-http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/680.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14625.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://master1.ipfox.online:25461/live/Etronics_tlRCcY/99EDfer0/690.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
@@ -188,7 +196,7 @@ http://77.36.61.147/hls/channel7/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/18365.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14631.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
 http://dmtn-tv.com:8080/live/cobra-iptv/cbVat3I4nV/8691.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
