@@ -76,7 +76,7 @@ http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24228.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
 http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24229.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/16547.m3u8
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/16355.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/775.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1 HD"  group-title="Sport",EuroSport 1 HD
@@ -106,7 +106,7 @@ http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/16559.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14625.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4498.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/796.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
@@ -136,7 +136,7 @@ http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2"  group-title="Filme",PRO 2
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14635.m3u8
+http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/793.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/9347.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
