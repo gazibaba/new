@@ -208,7 +208,7 @@ http://77.36.61.147/hls/channel7/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14631.m3u8
+http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25531.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/25529.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
