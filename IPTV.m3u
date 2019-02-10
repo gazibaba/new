@@ -133,6 +133,10 @@ http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/778.m3u8
 http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14647.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/805.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
+https://cmn.digitalcable.ro/free/cm/chunks.m3u8?nimblesessionid=2073069
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy East"  group-title="Filme",Comedy East
+https://cmn.digitalcable.ro/free/comedyest/chunks.m3u8?nimblesessionid=2073255
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2"  group-title="Filme",PRO 2
