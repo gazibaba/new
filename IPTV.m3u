@@ -24,7 +24,7 @@ http://37.59.111.212:1000/kanal_d_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/773.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14642.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4560.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz48" tvg-logo="https://my.boboctv.com/channels/logo/n24.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -70,11 +70,11 @@ http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/16351.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/16352.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24227.m3u8
+http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/16353.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24228.m3u8
+http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/16356.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24229.m3u8
+http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/16354.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/16355.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 1"  group-title="Sport",EuroSport 1
@@ -85,8 +85,8 @@ http://37.59.111.212:1000/eurosport1_hd_c-
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/766.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2 HD"  group-title="Sport",EuroSport 2 HD
 http://37.59.111.212:1000/eurosport2_hd_c-
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14640.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4577.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://85.186.133.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
@@ -100,9 +100,9 @@ http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Filme",HBO HD
 http://37.59.111.212:1000/hbo_hd-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14604.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4587.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/16559.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4492.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
@@ -130,7 +130,7 @@ http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4582.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/778.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14647.m3u8
+http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25520.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
 http://restream.geniptv.com:8080/live/fadel_20021/lhXUWicJTn/805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
