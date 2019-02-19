@@ -144,7 +144,7 @@ http://89.45.201.132:2222/udp/224.0.0.3:705
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
 http://89.45.201.132:2222/udp/224.0.0.3:138
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
-http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/35706.m3u8
+http://62.210.245.97:8888/live/cXLNKZgVLB/P8iI6wPjNO/1177.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
 http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/5306.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
@@ -156,7 +156,7 @@ http://123orca.com:25461/live/amina2/amina2/11213.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://89.45.201.132:2222/udp/224.0.0.3:709
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
-http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/5316.m3u8
+http://62.210.245.97:8888/live/cXLNKZgVLB/P8iI6wPjNO/1178.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
 http://123orca.com:25461/live/amina2/amina2/11197.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
