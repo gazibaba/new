@@ -118,7 +118,7 @@ http://123orca.com:25461/live/amina2/amina2/11215.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
 http://37.59.111.212:1000/film_cafe_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
-http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25528.m3u8
+http://89.45.201.132:2222/udp/224.0.0.3:610
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://main.tvstreams.xyz:83/live/95308374/24136119/303261.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
@@ -137,8 +137,6 @@ http://89.45.201.132:2222/udp/224.0.0.3:504
 http://89.45.201.132:2222/udp/224.0.0.3:1111
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
 http://89.45.201.132:2222/udp/224.0.0.3:121
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
-http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/9347.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 https://tinyurl.com/ycwk2c49
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodClasic.ro.png" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
@@ -179,8 +177,6 @@ https://tinyurl.com/y9mva3lr
 https://tinyurl.com/y9flx6pf
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
-#EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/travel-mix.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
-http://d201h06fdwdct7.cloudfront.net/travelmix/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://123orca.com:25461/live/amina2/amina2/11221.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
@@ -252,7 +248,7 @@ https://tinyurl.com/ycp522nm
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Noroc TV HD"  group-title="Muzica",Noroc TV HD
 http://live.noroc.tv:8081/livepkgr/live/livestream_1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf TV"  group-title="Muzica",Taraf TV
-http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/825.ts
+http://89.45.201.132:2222/udp/224.0.0.3:616
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 https://tinyurl.com/y8hx7q2b
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
