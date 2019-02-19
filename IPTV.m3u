@@ -62,9 +62,9 @@ http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15228.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15170.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
-http://main.tvstreams.xyz:83/live/95308374/24136119/303215.m3u8
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15169.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/16353.m3u8
+http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24227.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15167.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
@@ -80,7 +80,7 @@ http://iptv-volkan.net:8000/live/touka70/32551248/2744.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="EuroSport 2 HD"  group-title="Sport",EuroSport 2 HD
 http://37.59.111.212:1000/eurosport2_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
-http://iptv-volkan.net:8000/livetouka70/32551248/2745.m3u8
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/826.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://85.186.133.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
@@ -102,7 +102,7 @@ http://iptv-volkan.net:8000/live/touka70/32551248/2385.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://jarvis.bet:80/live/michael1/12345678/47366.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15253.m3u8
+http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/15253
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
 http://37.59.111.212:1000/axn_hd_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
@@ -110,7 +110,7 @@ http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/12073.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/852.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25532.m3u8
+http://37.59.111.212:1000/axn_spin_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/5269.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
@@ -124,7 +124,7 @@ http://iptv-volkan.net:8000/live/touka70/32551248/2736.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/5310.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
-http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25520.m3u8
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15262.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
 http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/824.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
@@ -144,7 +144,7 @@ https://tinyurl.com/y83gekku
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://89.38.8.131:39553/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
-http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25155.m3u8
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15261.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://iptv-volkan.net:8000/live/touka70/32551248/2737.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
