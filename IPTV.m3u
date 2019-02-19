@@ -66,7 +66,7 @@ http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15228.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15170.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15169.m3u8
+http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/859.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
 http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/24227.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
@@ -120,7 +120,7 @@ http://37.59.111.212:1000/film_cafe_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
 http://portal.geniptv.com:8080/live/c8sTCd9qd1/APqNmLTk2W/25528.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://iptv-volkan.net:8000/live/touka70/32551248/2736.m3u8
+http://main.tvstreams.xyz:83/live/95308374/24136119/303261.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://mypanel.tv:80/live/hFHWFYRjUE/ZBop4fLWkE/5310.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
@@ -185,8 +185,8 @@ http://d201h06fdwdct7.cloudfront.net/travelmix/ngrp:stream_all/index.m3u8
 http://123orca.com:25461/live/amina2/amina2/11221.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
 https://tinyurl.com/09comedyplay
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://iptv-volkan.net:8000/live/touka70/32551248/2383.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
+http://5.254.66.150:25461/live/medhi1/medhi1/11201.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 https://tinyurl.com/y7to7edt
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
