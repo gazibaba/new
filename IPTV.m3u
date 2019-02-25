@@ -27,16 +27,18 @@ http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15188.m3u8
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="raz7" tvg-logo="Logo N/A" tvg-name="ProTV News"  group-title="Generale",ProTV News
 http://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="raz7" tvg-logo="Logo N/A" tvg-name="ProTV Chisinau HD"  group-title="Generale",ProTV Chisinau HD
+http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Moldova 1"  group-title="Generale",Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:0, tvg-id="raz20" tvg-logo="https://my.boboctv.com/channels/logo/digi24hd.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:0, tvg-id="raz19" tvg-logo="https://my.boboctv.com/channels/logo/realitatea-tv.png" tvg-name="Realitatea Tv"  group-title="Stiri",Realitatea Tv
-http://force102.com:8080/live/rafetabi/13042018/20283.m3u8
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Canal 33"  group-title="Stiri",Canal 33
 http://46.20.136.59/live3/_definst_/canal33/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/romania-tv.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15173.m3u8
+http://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15258.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National 24 Plus"  group-title="Stiri",National 24 Plus
