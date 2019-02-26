@@ -155,8 +155,6 @@ http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/34.m3u8
 http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/11213.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://89.45.201.132:2222/udp/224.0.0.3:709
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
-http://62.210.245.97:8888/live/cXLNKZgVLB/P8iI6wPjNO/1178.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
 http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/11197.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
@@ -164,7 +162,7 @@ http://89.45.201.132:2222/udp/224.0.0.3:714
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://89.45.201.132:2222/udp/224.0.0.3:713
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
-http://62.210.245.97:8888/live/dvMRqiQq8d/aX3PRb2mxG/821.ts
+http://x.mytvxweb.me:25461/live/1225/1225/15190.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
 https://tinyurl.com/y9mva3lr
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV"  group-title="Wild",IDA TV
@@ -220,7 +218,7 @@ http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://force102.com:8080/live/rafetabi/13042018/20291.m3u8
+http://x.mytvxweb.me:25461/live/1225/1225/15216.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz RO!"  group-title="Muzica",Mooz RO!
