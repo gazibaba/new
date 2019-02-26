@@ -4,7 +4,7 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 #EXTINF:0, tvg-id="raz2" tvg-logo="https://my.boboctv.com/channels/logo/tvr-2.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV"  group-title="Generale",Pro TV
-http://force102.com:8080/live/rafetabi/13042018/20284.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/11.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV (S2)"  group-title="Generale",Pro TV (S2)
 http://89.45.201.132:2222/udp/224.0.0.3:107
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
@@ -90,11 +90,11 @@ http://89.45.201.132:2222/udp/224.0.0.3:129
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
-http://force102.com:8080/live/rafetabi/13042018/20297.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/24.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://force102.com:8080/live/rafetabi/13042018/20296.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/26.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://force102.com:8080/live/rafetabi/13042018/20295.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/25.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15233.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
@@ -104,15 +104,13 @@ http://89.45.201.132:2222/udp/224.0.0.3:517
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
 http://89.45.201.132:2222/udp/224.0.0.3:515
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://force102.com:8080/live/rafetabi/13042018/20311.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/39.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://37.59.111.212:1000/axn_spin_c-
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/48.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://qqtv.nl/live/f2KFRMfrYU/YwJN6WkmQi/14894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://qqtv.nl/live/f2KFRMfrYU/YwJN6WkmQi/14893.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://37.59.111.212:1000/film_cafe_c-
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
 http://89.45.201.132:2222/udp/224.0.0.3:610
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
@@ -120,11 +118,9 @@ http://qqtv.nl/live/f2KFRMfrYU/YwJN6WkmQi/14890.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://89.45.201.132:2222/udp/224.0.0.3:513
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15262.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/46.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
 http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/15162
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Filme",TLC
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/15163.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
 https://81.180.123.89/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy East"  group-title="Filme",Comedy East
@@ -154,9 +150,9 @@ http://qqtv.nl/live/f2KFRMfrYU/YwJN6WkmQi/14873.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
 http://qqtv.nl/live/f2KFRMfrYU/YwJN6WkmQi/14861.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
-http://force102.com:8080/live/rafetabi/13042018/20306.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/34.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
-http://force102.com:8080/live/rafetabi/13042018/20307.m3u8
+http://5.254.66.150:25461/live/NveUQFurR3/dMFY9DbG2a/11213.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://89.45.201.132:2222/udp/224.0.0.3:709
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
@@ -176,7 +172,7 @@ https://tinyurl.com/y9flx6pf
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
-http://force102.com:8080/live/rafetabi/13042018/20313.m3u8
+http://62.210.245.97:25461/live/0Oo4Sz1OK0/omM2W573dp/41.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
 https://tinyurl.com/09comedyplay
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
