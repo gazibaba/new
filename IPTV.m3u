@@ -85,6 +85,8 @@ http://89.45.201.132:2222/udp/224.0.0.3:1207
 http://nebro.dreamiptv.net:8080/live/bc3n1Et2B/0gR75zm1yU/62973.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
 http://89.45.201.132:2222/udp/224.0.0.3:1208
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super Tenis HD"  group-title="Sport",Super Tenis HD
+http://nebro.dreamiptv.net:8080/live/rialtosnack/KzW8jg79xq/134687.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
 http://89.45.201.132:2222/udp/224.0.0.3:122
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport"  group-title="Sport",Look Sport
