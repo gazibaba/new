@@ -160,13 +160,13 @@ http://restream.geniptv.com:8080/live/ndasat/6dwtasagdaw5r/25431.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
 http://restream.geniptv.com:8080/live/ndasat/6dwtasagdaw5r/25432.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
-http://nebro.dreamiptv.net:8080/live/bc3n1Et2B/0gR75zm1yU/63001.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4606.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
 http://89.45.201.132:2222/udp/224.0.0.3:714
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://89.45.201.132:2222/udp/224.0.0.3:713
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
-http://nebro.dreamiptv.net:8080/live/bc3n1Et2B/0gR75zm1yU/98571.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4486.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
 https://tinyurl.com/y9mva3lr
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV"  group-title="Wild",IDA TV
@@ -178,7 +178,7 @@ http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4596.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
 https://tinyurl.com/09comedyplay
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
-http://nebro.dreamiptv.net:8080/live/bc3n1Et2B/0gR75zm1yU/98561.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4607.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 https://tinyurl.com/y7to7edt
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
@@ -204,9 +204,9 @@ http://89.45.201.132:2222/udp/224.0.0.3:150
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4496.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
-http://nebro.dreamiptv.net:8080/live/bc3n1Et2B/0gR75zm1yU/75033.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4604.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
-http://nebro.dreamiptv.net:8080/live/bc3n1Et2B/0gR75zm1yU/156199.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4603.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
 http://89.45.201.132:2222/udp/224.0.0.3:154
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
@@ -222,7 +222,7 @@ http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://x.mytvxweb.me:25461/live/1225/1225/15216.m3u8
+http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4583.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz RO!"  group-title="Muzica",Mooz RO!
@@ -235,8 +235,6 @@ https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://89.45.201.132:2222/udp/224.0.0.3:609
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tezaur Tv"  group-title="Muzica",Tezaur Tv
-http://s2.streamnet.ro:8035/stream.flv
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
 https://tinyurl.com/ycp522nm
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf TV"  group-title="Muzica",Taraf TV
