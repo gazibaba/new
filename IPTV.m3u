@@ -84,7 +84,7 @@ http://89.45.201.132:2222/udp/224.0.0.3:1208
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
 http://89.45.201.132:2222/udp/224.0.0.3:122
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport"  group-title="Sport",Look Sport
-http://keke.totoiptv.com:8080/live/rialtosnack/KzW8jg79xq/155781.m3u8
+http://qqtv.nl/live/gxMh2AhXdw/PH6zlqIY8k/14886.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
 http://89.45.201.132:2222/udp/224.0.0.3:129
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
@@ -108,7 +108,7 @@ http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4594.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/48.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
-http://keke.totoiptv.com:8080/live/rialtosnack/KzW8jg79xq/63024.m3u8
+http://qqtv.nl/live/gxMh2AhXdw/PH6zlqIY8k/14894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4499.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
@@ -148,9 +148,9 @@ http://89.45.201.132:2222/udp/224.0.0.3:705
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
 http://89.45.201.132:2222/udp/224.0.0.3:138
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
-http://keke.totoiptv.com:8080/live/rialtosnack/KzW8jg79xq/63011.m3u8
+http://qqtv.nl/live/gxMh2AhXdw/PH6zlqIY8k/14875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
-http://keke.totoiptv.com:8080/live/rialtosnack/KzW8jg79xq/63010.m3u8
+http://qqtv.nl/live/gxMh2AhXdw/PH6zlqIY8k/14873.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
 http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4497.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
