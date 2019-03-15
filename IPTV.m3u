@@ -89,6 +89,8 @@ http://89.45.201.132:2222/udp/224.0.0.3:129
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/801.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1 HD"  group-title="Filme",HBO 1 HD
+http://channels227070.clientportal.link:80/live/Eb13FJB80/arbl9777/14604.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/788.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
