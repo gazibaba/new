@@ -4,23 +4,23 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 #EXTINF:0, tvg-id="raz2" tvg-logo="https://my.boboctv.com/channels/logo/tvr-2.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV"  group-title="Generale",Pro TV
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4580.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/812.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV (S2)"  group-title="Generale",Pro TV (S2)
 http://89.45.201.132:2222/udp/224.0.0.3:107
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 http://89.45.201.132:2222/udp/224.0.0.3:119
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4598.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/782.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 (S2)"  group-title="Generale",Antena 1 (S2)
 http://89.45.201.132:2222/udp/224.0.0.3:104
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4585.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://89.45.201.132:2222/udp/224.0.0.3:123
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://89.45.201.132:2222/udp/224.0.0.3:116
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4560.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/773.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="N/A" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -40,23 +40,25 @@ http://195.42.138.43/livertmp/plus/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/romania-tv.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
 http://89.45.201.132:2222/udp/224.0.0.3:109
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4597.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/795.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National 24 Plus"  group-title="Stiri",National 24 Plus
 http://89.45.201.132:2222/udp/224.0.0.3:115
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
 http://89.45.201.132:2222/udp/224.0.0.3:117
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4599.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/794.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 https://tinyurl.com/ycyssnq5
 #EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4481.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/754.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/753.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digi-sport-2-hd.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4482.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/763.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4483.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/762.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4484.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/761.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/62979.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
@@ -70,11 +72,11 @@ http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/62977.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
 http://89.45.201.132:2222/udp/224.0.0.3:212
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4495.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/7755.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
 http://89.45.201.132:2222/udp/224.0.0.3:1207
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4494.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/766.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
 http://89.45.201.132:2222/udp/224.0.0.3:1208
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
@@ -85,42 +87,38 @@ http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/155781.m3u8
 http://89.45.201.132:2222/udp/224.0.0.3:129
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://195.154.207.143:89/live/POr1/mBYFJfzoSy/4276.m3u8%20.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4587.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/801.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4492.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/788.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4491.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4498.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4595.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/796.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
 http://89.45.201.132:2222/udp/224.0.0.3:517
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4593.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/797.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4594.m3u8
+http://thebest.streamtv.to:8080/Rwv9Ic5gZl/2Mzid5G3XK/5465.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/48.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
-http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/63024.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/799.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4499.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/784.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
 http://89.45.201.132:2222/udp/224.0.0.3:610
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4582.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/802.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://89.45.201.132:2222/udp/224.0.0.3:513
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
 http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/46.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4575.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Filme",TLC
-http://111.90.151.57:8080/live/bc3n1Et2B/0gR75zm1yU/113010.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy East"  group-title="Filme",Comedy East
@@ -150,25 +148,25 @@ http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/63011.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/63010.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4497.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/764.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4609.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/760.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4589.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/759.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://89.45.201.132:2222/udp/224.0.0.3:709
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
-http://111.90.151.57:8080/live/bc3n1Et2B/0gR75zm1yU/112954.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25431.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
 http://89.45.201.132:2222/udp/224.0.0.3:125
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4606.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/767.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
 http://89.45.201.132:2222/udp/224.0.0.3:714
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://89.45.201.132:2222/udp/224.0.0.3:713
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4486.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/5470.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
 https://tinyurl.com/y9mva3lr
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV"  group-title="Wild",IDA TV
@@ -176,11 +174,9 @@ https://tinyurl.com/y9flx6pf
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4596.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Play"  group-title="Diverse",Comedy Play
-https://tinyurl.com/09comedyplay
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/783.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4607.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/787.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 https://tinyurl.com/y7to7edt
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
@@ -204,11 +200,11 @@ http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/49.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
 http://89.45.201.132:2222/udp/224.0.0.3:150
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4496.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/765.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4604.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/769.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4603.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/770.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
 http://89.45.201.132:2222/udp/224.0.0.3:154
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
@@ -224,7 +220,7 @@ http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://iptvfree1.com:6969/live/soufiane.samira74/9jwKfvE8ET/4583.m3u8
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/810.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz RO!"  group-title="Muzica",Mooz RO!
