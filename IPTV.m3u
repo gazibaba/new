@@ -5,20 +5,18 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV"  group-title="Generale",Pro TV
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/812.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV (S2)"  group-title="Generale",Pro TV (S2)
-http://89.45.201.132:2222/udp/224.0.0.3:107
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
-http://89.45.201.132:2222/udp/224.0.0.3:119
+http://landiptv.live:8080/live/marco/polo/66902.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/782.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 (S2)"  group-title="Generale",Antena 1 (S2)
-http://89.45.201.132:2222/udp/224.0.0.3:104
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155447.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://89.45.201.132:2222/udp/224.0.0.3:123
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155780.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://89.45.201.132:2222/udp/224.0.0.3:116
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207607.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/773.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas TV"  group-title="Filme",Lidas TV
@@ -40,13 +38,9 @@ http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="raz19" tvg-logo="N/A" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 http://195.42.138.43/livertmp/plus/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/romania-tv.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://89.45.201.132:2222/udp/224.0.0.3:109
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155782.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/795.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National 24 Plus"  group-title="Stiri",National 24 Plus
-http://89.45.201.132:2222/udp/224.0.0.3:115
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://89.45.201.132:2222/udp/224.0.0.3:117
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/794.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
@@ -68,27 +62,23 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/761.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://landiptv.live:8080/live/marco/polo/207704.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
-http://landiptv.live:8080/live/marco/polo/207738.m3u8
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207738.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://landiptv.live:8080/live/marco/polo/207739.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://89.45.201.132:2222/udp/224.0.0.3:211
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207740.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
-http://89.45.201.132:2222/udp/224.0.0.3:212
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207742.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
 http://89.45.201.132:2222/udp/224.0.0.3:211
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
 http://89.45.201.132:2222/udp/224.0.0.3:212
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4495.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
-http://89.45.201.132:2222/udp/224.0.0.3:1207
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/766.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
-http://89.45.201.132:2222/udp/224.0.0.3:1208
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
-http://89.45.201.132:2222/udp/224.0.0.3:122
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62972.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://landiptv.live:8080/live/marco/polo/127602.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
@@ -121,8 +111,6 @@ http://landiptv.live:8080/live/marco/polo/207628.m3u8
 http://landiptv.live:8080/live/marco/polo/207629.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/796.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://89.45.201.132:2222/udp/224.0.0.3:517
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/797.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
@@ -138,11 +126,11 @@ http://landiptv.live:8080/live/marco/polo/112948.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
 http://landiptv.live:8080/live/marco/polo/112951.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
-http://89.45.201.132:2222/udp/224.0.0.3:610
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207639.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/802.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
-http://89.45.201.132:2222/udp/224.0.0.3:513
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62993.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
 http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/46.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
@@ -156,13 +144,11 @@ https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy East"  group-title="Filme",Comedy East
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
-http://89.45.201.132:2222/udp/224.0.0.3:504
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62995.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2"  group-title="Filme",PRO 2
-http://89.45.201.132:2222/udp/224.0.0.3:1111
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
-http://89.45.201.132:2222/udp/224.0.0.3:121
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/75024.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
-http://89.45.201.132:2222/udp/224.0.0.3:112
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/206450.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas MovieSmart HD"  group-title="Filme",Lidas MovieSmart HD
 http://landiptv.live:8080/live/marco/polo/207619.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Film Zone+ HD"  group-title="Filme",Lidas Film Zone+ HD
@@ -208,7 +194,7 @@ http://landiptv.live:8080/live/marco/polo/112937.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Crime&Investigation"  group-title="Wild",Crime&Investigation
 http://landiptv.live:8080/live/marco/polo/207654.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
-http://89.45.201.132:2222/udp/224.0.0.3:709
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/75030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25431.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
