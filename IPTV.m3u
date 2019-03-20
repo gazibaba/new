@@ -346,7 +346,7 @@ http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Ardeal TV"  group-title="Locale",Ardeal TV
-http://landiptv.live:8080/marco/polo/207687.m3u8
+http://landiptv.live:8080/live/marco/polo/207687.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
 http://landiptv.live:8080/live/marco/polo/112885.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
