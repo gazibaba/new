@@ -79,6 +79,8 @@ http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4495.m3u8
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/766.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X"  group-title="Sport",Pro X
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62972.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/195.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://landiptv.live:8080/live/marco/polo/127602.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
@@ -101,8 +103,16 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/788.m3u8
 http://channels227070.clientportal.link:80/live/Eb13FJB80/arbl9777/16559.ts
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/2125.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/2215.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="All TV Comedy HD"  group-title="Filme",All TV Comedy HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/287.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="All TV Cinema HD"  group-title="Filme",All TV Cinema HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/291.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Premium HD"  group-title="Filme",AS Premium HD
 http://landiptv.live:8080/live/marco/polo/207626.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Action HD"  group-title="Filme",AS Action HD
@@ -208,7 +218,7 @@ http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4485.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/809.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
-http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/5470.m3u8
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/79.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
 https://tinyurl.com/y9mva3lr
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV"  group-title="Wild",IDA TV
@@ -251,8 +261,12 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/798.m3u8
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25530.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/756.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick Jr."  group-title="Desene",Nick Jr.
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/89.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Junior HD"  group-title="Filme",AS Junior HD
 http://landiptv.live:8080/live/marco/polo/207630.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="JimJam"  group-title="Filme",JimJam
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/2126.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
