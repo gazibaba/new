@@ -62,7 +62,7 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/761.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://landiptv.live:8080/live/marco/polo/207704.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1"  group-title="Sport",Telekom Sport 1
-http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207738.m3u8
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62979.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://landiptv.live:8080/live/marco/polo/207739.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
@@ -70,9 +70,9 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207740.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207742.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
-http://89.45.201.132:2222/udp/224.0.0.3:211
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/16354.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 6"  group-title="Sport",Telekom Sport 6
-http://89.45.201.132:2222/udp/224.0.0.3:212
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/16355.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4495.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
@@ -81,10 +81,12 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/766.m3u8
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62972.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://landiptv.live:8080/live/marco/polo/127602.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
-http://89.45.201.132:2222/udp/224.0.0.3:129
+#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4561.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Extreme Sport"  group-title="Sport",Extreme Sport
-http://landiptv.live:8080/live/marco/polo/207648.m3u8
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/59.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SuperTennis"  group-title="Sport",SuperTennis
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/134687.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Action 4K"  group-title="Filme",Lidas Action 4K
@@ -172,9 +174,9 @@ http://89.38.8.131:39553/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
 http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/47.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Wild",National Geographic
-http://89.45.201.132:2222/udp/224.0.0.3:705
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/772.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
-http://89.45.201.132:2222/udp/224.0.0.3:138
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/771.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
 http://landiptv.live:8080/live/marco/polo/63011.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
@@ -198,13 +200,13 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/75030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25431.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
-http://89.45.201.132:2222/udp/224.0.0.3:125
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25432.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/767.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
-http://89.45.201.132:2222/udp/224.0.0.3:714
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4485.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
-http://89.45.201.132:2222/udp/224.0.0.3:713
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/809.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/5470.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
@@ -213,8 +215,6 @@ https://tinyurl.com/y9mva3lr
 https://tinyurl.com/y9flx6pf
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fashion TV"  group-title="Wild",Fashion TV
-http://landiptv.live:8080/live/marco/polo/112944.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/783.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
@@ -238,7 +238,7 @@ http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://62.210.245.97:25461/live/dPbptaExfl/QgrXWXJVQu/49.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://89.45.201.132:2222/udp/224.0.0.3:150
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25529.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/765.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
@@ -246,17 +246,15 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/769.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/770.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Desene",Boomerang
-http://89.45.201.132:2222/udp/224.0.0.3:154
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/798.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://89.45.201.132:2222/udp/224.0.0.3:708
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25530.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon
-http://89.45.201.132:2222/udp/224.0.0.3:153
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/756.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Junior HD"  group-title="Filme",AS Junior HD
 http://landiptv.live:8080/live/marco/polo/207630.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Desene",Duck TV
-http://89.45.201.132:2222/udp/224.0.0.3:157
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
@@ -272,7 +270,7 @@ https://tinyurl.com/y9kcc4wq
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dream TV"  group-title="Muzica",Dream TV
 https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://static.iptv-epg.com/ro/Favorit.ro.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
-http://89.45.201.132:2222/udp/224.0.0.3:609
+http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/780.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
@@ -281,8 +279,6 @@ https://tinyurl.com/ycp522nm
 https://tinyurl.com/yagyvaov
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 https://tinyurl.com/y8hx7q2b
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
-https://tinyurl.com/ybhfoysr
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dibi TV HD"  group-title="Muzica",Dibi TV HD
 https://tinyurl.com/y87ymyxk
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
@@ -311,8 +307,6 @@ http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/chunklist_w720477026_b12000
 http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/chunklist_w570772822_b1200000.m3u8?__mn_sid=8512025290270500067
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Iasi"  group-title="Locale",TVR Iasi
 http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000.m3u8?__mn_sid=14755997706819151085
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Timisoara"  group-title="Locale",TVR Timisoara
-http://mn-nl.mncdn.com/tvr_timisoara/smil:TVRTIMISOARA.smil/chunklist_w430772517_b1200000.m3u8?__mn_sid=2545065761167676685
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR +"  group-title="Locale",TVR +
 http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/chunklist_w85719640.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Acum TV"  group-title="Locale",Acum TV
