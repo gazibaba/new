@@ -89,6 +89,10 @@ http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/59.m3u8
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/134687.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="All TV Comedy HD"  group-title="Filme",All TV Comedy HD
+http://cloud.ipdtvsystems.live:25461/live9FRIST-A/29098/287.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="All TV Family HD"  group-title="Filme",All TV Family HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/291.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Action 4K"  group-title="Filme",Lidas Action 4K
 http://landiptv.live:8080/live/marco/polo/207616.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
