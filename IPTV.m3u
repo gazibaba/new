@@ -83,6 +83,8 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62972.m3u8
 http://landiptv.live:8080/live/marco/polo/127602.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
 http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4561.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Extreme Sport Romania"  group-title="Sport",Extreme Sport Romania
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/59.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SuperTennis"  group-title="Sport",SuperTennis
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/134687.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
@@ -125,6 +127,10 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/784.m3u8
 http://landiptv.live:8080/live/marco/polo/112948.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
 http://landiptv.live:8080/live/marco/polo/112951.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Extra HD"  group-title="Filme",Film Box Extra HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/2143.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Family"  group-title="Filme",Film Box Family
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/23.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207639.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
@@ -193,6 +199,10 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/759.m3u8
 http://landiptv.live:8080/live/marco/polo/112937.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Crime&Investigation"  group-title="Wild",Crime&Investigation
 http://landiptv.live:8080/live/marco/polo/207654.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC Earth Romania"  group-title="Wild",BBC Earth Romania
+http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/186
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fine Living Romania"  group-title="Wild",Fine Living Romania
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/68.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/75030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Wild",Food Network
