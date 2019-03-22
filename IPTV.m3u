@@ -83,6 +83,8 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62972.m3u8
 http://landiptv.live:8080/live/marco/polo/127602.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
 http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4561.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Auto Motor Sport HD"  group-title="Sport",Auto Motor Sport HD
+http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/226.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Extreme Sport Romania"  group-title="Sport",Extreme Sport Romania
 http://cloud.ipdtvsystems.live:25461/live/9FRIST-A/29098/59.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SuperTennis"  group-title="Sport",SuperTennis
