@@ -107,6 +107,8 @@ http://channels227070.clientportal.link:80/live/Eb13FJB80/arbl9777/16559.ts
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Premium HD"  group-title="Filme",AS Premium HD
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207626.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Action HD"  group-title="Filme",AS Action HD
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207627.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Comedy HD"  group-title="Filme",AS Comedy HD
