@@ -19,8 +19,6 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155780.m3u8
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207607.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/773.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas TV"  group-title="Filme",Lidas TV
-http://landiptv.live:8080/live/marco/polo/207623.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="N/A" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -97,8 +95,6 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207648.m3u8
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/134687.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Action 4K"  group-title="Filme",Lidas Action 4K
-http://landiptv.live:8080/live/marco/polo/207616.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/801.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1 HD"  group-title="Filme",HBO 1 HD
@@ -111,6 +107,8 @@ http://channels227070.clientportal.link:80/live/Eb13FJB80/arbl9777/16559.ts
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Action HD"  group-title="Filme",AS Action HD
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207627.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Comedy HD"  group-title="Filme",AS Comedy HD
 http://landiptv.live:8080/live/marco/polo/207628.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AS Horror HD"  group-title="Filme",AS Horror HD
@@ -140,7 +138,7 @@ http://c.h-tv.eu:8000/http/stream:9000/stream701/196
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62993.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
-http://188.25.84.236:16000/play/a02m/index.m3u8
+http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/63031.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/805.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Filme",TLC
@@ -157,18 +155,6 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62995.m3u8
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/75024.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/206450.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas MovieSmart HD"  group-title="Filme",Lidas MovieSmart HD
-http://landiptv.live:8080/live/marco/polo/207619.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Film Zone+ HD"  group-title="Filme",Lidas Film Zone+ HD
-http://landiptv.live:8080/live/marco/polo/207620.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Film HD"  group-title="Filme",Lidas Film HD
-http://landiptv.live:8080/live/marco/polo/207617.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Cinema+ HD"  group-title="Filme",Lidas Cinema+ HD
-http://landiptv.live:8080/live/marco/polo/207618.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Latino HD"  group-title="Filme",Lidas Latino HD
-http://landiptv.live:8080/live/marco/polo/207625.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Lidas Bollywood HD"  group-title="Filme",Lidas Bollywood HD
-http://landiptv.live:8080/live/marco/polo/207622.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 https://tinyurl.com/ycwk2c49
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodClasic.ro.png" tvg-name="Bollywood Clasic"  group-title="Filme",Bollywood Clasic
