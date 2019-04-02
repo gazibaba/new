@@ -109,6 +109,22 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/788.m3u8
 http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/2229
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Cineplex Cinemas HD"  group-title="Filme",VIP Cineplex Cinemas HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/31886.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Action HD"  group-title="Filme",VIP Action HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26239.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Comedy HD"  group-title="Filme",VIP Comedy HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26240.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Kung Fu HD"  group-title="Filme",VIP Kung Fu HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26253.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Horror HD"  group-title="Filme",VIP Horror HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26712.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Istoric HD"  group-title="Filme",VIP Istoric HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/28477.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Indian HD"  group-title="Filme",VIP Indian HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26740.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Van Damme HD"  group-title="Filme",VIP Van Damme HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26782.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
@@ -231,6 +247,8 @@ https://tinyurl.com/02protvinternational
 https://tinyurl.com/05antenainternational
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Kids HD"  group-title="Desene",VIP Kids HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26241.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198598.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
@@ -251,6 +269,10 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62996.m3u8
 http://86.127.231.226:9981/stream/channelid/1835979446
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP HardRave HD"  group-title="Muzica",VIP HardRave HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26715.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Music HD"  group-title="Muzica",VIP Music HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26251.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
@@ -265,12 +287,16 @@ https://tinyurl.com/yav6bh88
 https://tinyurl.com/y9kcc4wq
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dream TV"  group-title="Muzica",Dream TV
 https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Popular HD"  group-title="Muzica",VIP Popular HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26268.m3u8
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://static.iptv-epg.com/ro/Favorit.ro.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/780.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
 https://tinyurl.com/ycp522nm
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Manele HD"  group-title="Muzica",VIP Manele HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26250.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf TV"  group-title="Muzica",Taraf TV HD
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/66899.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
