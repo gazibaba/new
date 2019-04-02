@@ -44,11 +44,12 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/795.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/2217
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Profit TV"  group-title="Stiri",Profit TV
-http://86.127.231.226:9981/stream/channelid/1155924267
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/23033.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/794.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://86.127.231.226:9981/stream/channelid/267567081
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/4552
+.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 https://tinyurl.com/ycyssnq5
 #EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
@@ -132,7 +133,7 @@ http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/26782.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://86.127.231.226:9981/stream/channelid/2093797741
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/4783.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/796.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
@@ -270,7 +271,11 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25530.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon HD
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62996.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
-http://86.127.231.226:9981/stream/channelid/1835979446
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/6634.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="JimJam"  group-title="Desene",JimJam
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/3737.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Desene",Duck TV
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/6164.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP HardRave HD"  group-title="Muzica",VIP HardRave HD
