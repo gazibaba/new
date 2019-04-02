@@ -48,8 +48,7 @@ http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/23033.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/794.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/4552
-.m3u8
+http://solofast.dyndns.tv:33000/4MSAvHba5F/pDi73Yw5SE/4552
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 https://tinyurl.com/ycyssnq5
 #EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
