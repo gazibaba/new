@@ -6,19 +6,21 @@ http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV"  group-title="Generale",Pro TV
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/812.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
-http://landiptv.live:8080/live/marco/polo/66902.m3u8
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/8036.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/782.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 (S2)"  group-title="Generale",Antena 1 (S2)
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155447.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/8035.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155780.m3u8
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/13625.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/773.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV (S2)"  group-title="Generale",Prima TV (S2)
-http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/773.m3u8
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/12.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="N/A" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -70,7 +72,7 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62979.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://landiptv.live:8080/live/marco/polo/207739.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207740.m3u8
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/6169.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/207742.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 5"  group-title="Sport",Telekom Sport 5
@@ -102,13 +104,15 @@ http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/801.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1 HD"  group-title="Filme",HBO 1 HD
-http://86.127.231.226:9981/stream/channelid/1802974862
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/4536.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/788.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
 http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/2229
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
+http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/4541.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Cineplex Cinemas HD"  group-title="Filme",VIP Cineplex Cinemas HD
 http://solofast.dyndns.tv:33000/live/4MSAvHba5F/pDi73Yw5SE/31886.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VIP Action HD"  group-title="Filme",VIP Action HD
