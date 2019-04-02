@@ -41,8 +41,12 @@ http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/155782.m3u8
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/795.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/2217
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Profit TV"  group-title="Stiri",Profit TV
+http://86.127.231.226:9981/stream/channelid/1155924267
 #EXTINF:0, tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/agro-tv-ro.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/794.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
+http://86.127.231.226:9981/stream/channelid/267567081
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 https://tinyurl.com/ycyssnq5
 #EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
@@ -98,7 +102,7 @@ http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/801.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1 HD"  group-title="Filme",HBO 1 HD
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/193
+http://86.127.231.226:9981/stream/channelid/1802974862
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/788.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
@@ -108,7 +112,7 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/785.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/112912.m3u8
+http://86.127.231.226:9981/stream/channelid/2093797741
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/796.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
@@ -243,6 +247,8 @@ http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/798.m3u8
 http://thebest.streamtv.to:8080/live/Rwv9Ic5gZl/2Mzid5G3XK/25530.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon HD
 http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/62996.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
+http://86.127.231.226:9981/stream/channelid/1835979446
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
