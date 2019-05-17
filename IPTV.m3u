@@ -69,6 +69,8 @@ http://5.12.48.182:9271/stream/direct?channel=2:482000:1:235:131
 http://tv.zalhd.vip:20002/live/ossama/ossama/3456.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 2 HD"  group-title="Sport",Telekom Sport 2 HD
 http://tv.zalhd.vip:20002/live/ossama/ossama/3457.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 3 HD"  group-title="Sport",Telekom Sport 3 HD
+http://iptvlive.stream:80/p/633864/c/76/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://5.12.48.182:9271/stream/direct?channel=2:474000:1:204:180
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
@@ -182,23 +184,23 @@ http://5.12.48.182:9271/stream/direct?channel=2:378000:1:251:607
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
 http://5.12.48.182:9271/stream/direct?channel=2:370000:1:103:230
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
-http://5.12.48.182:9271/stream/direct?channel=2:434000:1:212:262
+http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29472.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
 http://iptvlive.stream:80/p/633864/c/74/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
 http://iptvlive.stream:80/p/633864/c/73/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
 http://iptvlive.stream:80/p/633864/c/72/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV"  group-title="Wild",IDA TV
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/2230
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://5.12.48.182:9271/stream/direct?channel=2:458000:1:233:241
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://5.12.48.182:9271/stream/direct?channel=2:450000:1:234:582
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
+http://5.12.48.182:9271/stream/direct?channel=2:474000:1:204:220
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/13385.m3u8
+http://5.12.48.182:9271/stream/direct?channel=2:490000:1:236:583
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 https://tinyurl.com/y7to7edt
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
@@ -216,23 +218,21 @@ http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://iptvlive.stream:80/p/424289/c/1/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/84
+http://5.12.48.182:9271/stream/direct?channel=2:322000:1:202:410
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14613.m3u8
+http://5.12.48.182:9271/stream/direct?channel=2:354000:1:101:412
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
-http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3193.m3u8
+http://5.12.48.182:9271/stream/direct?channel=2:450000:1:234:419
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
-http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4603.m3u8
+http://5.12.48.182:9271/stream/direct?channel=2:354000:1:101:390
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
 http://5.12.48.182:9271/stream/direct?channel=2:386000:1:104:415
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14628.m3u8
+http://5.12.48.182:9271/stream/direct?channel=2:314000:1:201:421
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon HD
 http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29478.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/89
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="JimJam"  group-title="Desene",JimJam
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/2126
+http://5.12.48.182:9271/stream/direct?channel=2:434000:1:212:420
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
@@ -240,23 +240,27 @@ http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/90
+http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29428.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz RO!"  group-title="Muzica",Mooz RO!
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/301
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz Hits"  group-title="Muzica",Mooz Hits
+http://iptvlive.stream:80/p/633864/c/62/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz HD"  group-title="Muzica",Mooz HD
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/18332.m3u8
+http://iptvlive.stream:80/p/633864/c/61/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dream TV"  group-title="Muzica",Dream TV
 https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://static.iptv-epg.com/ro/Favorit.ro.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
-http://tv.server.xdns.pro:80/live/SWL1RRpkDI/9rwQGCKn7C/14608.m3u8
+http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29437.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Hora TV"  group-title="Muzica",Hora TV
+http://5.12.48.182:9271/stream/direct?channel=2:394000:1:206:495
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inedit TV"  group-title="Muzica",Inedit TV
+http://5.12.48.182:9271/stream/direct?channel=2:338000:1:231:526
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
 https://tinyurl.com/ycp522nm
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf"  group-title="Muzica",Taraf TV
-http://81.182.193.82:9000/stream/channelid/691972030
+http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29440.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 https://tinyurl.com/y8hx7q2b
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dibi TV HD"  group-title="Muzica",Dibi TV HD
@@ -290,7 +294,7 @@ https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 Tv"  group-title="Locale",6 Tv
 http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
-http://89.38.8.130:39419
+http://5.12.48.182:9271/stream/direct?channel=2:490000:1:236:519
 http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/292
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/cellular.m3u8
