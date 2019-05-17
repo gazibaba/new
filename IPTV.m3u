@@ -295,13 +295,24 @@ https://canalregional.md/tv/live/canalregional.m3u8
 http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://5.12.48.182:9271/stream/direct?channel=2:490000:1:236:519
-http://cloud.ipdtvsystems.live:25461/9FRIST-A/29098/292
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Evil Angel(18+)"  group-title="Erotice",Evil Angel(18+)
+http://185.165.240.145:9090/live/LDR1jPKagi/YaX78ArKB1/13584.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bizare Adult TV(18+)"  group-title="Erotice",Bizare Adult TV
+http://185.165.240.145:9090/live/LDR1jPKagi/YaX78ArKB1/13572.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
+http://185.165.240.145:9090/live/LDR1jPKagi/YaX78ArKB1/13577.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Redlight HD(18+)"  group-title="Erotice",Redlight HD(18+)
+http://185.165.240.145:9090/live/LDR1jPKagi/YaX78ArKB1/13576.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Penthouse(18+)"  group-title="Erotice",Penthouse(18+)
+http://185.165.240.145:9090/live/LDR1jPKagi/YaX78ArKB1/13582.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PassieXXX(18+)"  group-title="Erotice",PassieXXX(18+)
+http://185.165.240.145:9090/live/LDR1jPKagi/YaX78ArKB1/13560.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/trinitas-tv.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
 http://d201h06fdwdct7.cloudfront.net/trinitas/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
