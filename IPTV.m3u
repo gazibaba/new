@@ -106,7 +106,7 @@ http://iptvlive.stream:80/p/590561/c/202/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Filme",Film Now
 http://tele-live.dnsup.net:23000/live/davideMI/7cGtJzh4nf/31272.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://5.12.48.182:9271/stream/direct?channel=2:402000:1:207:374
+http://82.76.40.81/digiedge3/comedycentralehq/chunklist_w1124531044.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
 http://srv1.telek.me:8080/2646/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
