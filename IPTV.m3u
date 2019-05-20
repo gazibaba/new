@@ -108,15 +108,15 @@ http://tele-live.dnsup.net:23000/live/davideMI/7cGtJzh4nf/31272.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
 http://82.76.40.81/digiedge3/comedycentralehq/chunklist_w1124531044.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Filme",AXN
-http://srv1.telek.me:8080/2646/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
+http://82.76.40.81/digiedge2/axnemq/chunklist_w438205082.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Filme",AXN HD
 http://srv1.telek.me:8080/2938/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN White"  group-title="Filme",AXN White
-http://5.12.48.182:9271/stream/direct?channel=2:330000:1:232:370
+http://82.76.40.81/digiedge2/axnwhiteemq/chunklist_w545272419.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://5.12.48.182:9271/stream/direct?channel=2:402000:1:207:371
+http://82.76.40.81/digiedge2/axnblackemq/chunklist_w107455778.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://srv1.telek.me:8080/2939/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
+http://82.76.40.81/digiedge2/axnspinemq/chunklist_w2040041503.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://srv1.telek.me:8080/2670/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax HD"  group-title="Filme",Cinemax HD
@@ -136,17 +136,17 @@ http://iptvlive.stream:80/p/633864/c/48/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
 http://5.12.48.182:9271/stream/direct?channel=2:386000:1:104:357
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filme",TV 1000
-http://iptvlive.stream:80/p/633864/c/49/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
+http://82.76.40.81/digiedge2/tv1000ehq/chunklist_w2054383804.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Filme",AMC
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/46.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Filme",TNT
-http://5.12.48.182:9271/stream/direct?channel=2:482000:1:235:377
+http://82.76.40.81/digiedge3/tntemq/chunklist_w765223779.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Filme",TLC
 http://5.12.48.182:9271/stream/direct?channel=2:482000:1:235:315
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
-http://5.12.48.182:9271/stream/direct?channel=2:306000:1:230:352
+http://82.76.40.81/digiedge3/epicdramaemq/chunklist_w1902918860.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://5.12.48.182:9271/stream/direct?channel=2:330000:1:232:210
+http://82.76.40.81/digiedge3/filmcafeemq/chunklist_w359991169.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="E!Entertainment HD"  group-title="Filme",E!Entertainment HD
 http://5.12.48.182:9271/stream/direct?channel=2:482000:1:235:375
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
@@ -163,6 +163,8 @@ http://5.12.48.182:9271/stream/direct?channel=2:338000:1:231:205
 http://iptvlive.stream:80/p/639852/c/51/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood HD"  group-title="Filme",Bollywood HD
 http://5.12.48.182:9271/stream/direct?channel=2:362000:1:102:358
+#EXTINF:0, tvg-id="" tvg-logo="N/A" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://89.38.8.131:39553/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
@@ -234,7 +236,7 @@ http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://iptvlive.stream:80/p/424289/c/1/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://5.12.48.182:9271/stream/direct?channel=2:322000:1:202:410
+http://82.76.40.81/digiedge2/disneychannelemq/chunklist_w925922830.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://5.12.48.182:9271/stream/direct?channel=2:354000:1:101:412
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
@@ -246,7 +248,7 @@ http://5.12.48.182:9271/stream/direct?channel=2:386000:1:104:415
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
 http://5.12.48.182:9271/stream/direct?channel=2:314000:1:201:421
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon HD
-http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29478.m3u8
+http://82.76.40.81/digiedge2/nickelodeonemq/chunklist_w3191811.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
 http://5.12.48.182:9271/stream/direct?channel=2:434000:1:212:420
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
