@@ -87,12 +87,18 @@ http://5.12.48.182:9271/stream/direct?channel=2:338000:1:231:162
 http://5.12.48.182:9271/stream/direct?channel=2:450000:1:234:529
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/LookPlus.ro.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
 http://5.12.48.182:9271/stream/direct?channel=2:386000:1:104:528
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Extreme Sports"  group-title="Sport",Extreme Sports
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/210985.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Vizyon TV HD"  group-title="Filme",Vizyon TV HD
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/214061.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://81.182.131.186:9000/stream/channelid/1483790231
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://tele-live.dnsup.net:23000/live/davideMI/7cGtJzh4nf/31252.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/63006.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://tele-live.dnsup.net:23000/live/davideMI/7cGtJzh4nf/31251.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
@@ -118,7 +124,11 @@ http://srv1.telek.me:8080/2412/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/36.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box"  group-title="Filme",Film Box
-http://iptvlive.stream:80/p/639852/c/12/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/210991.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/210995.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Extra HD"  group-title="Filme",Film Box Extra HD
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/210992.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Film Box Family"  group-title="Filme",Film Box Family
 http://iptvlive.stream:80/p/639852/c/13/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diva TV"  group-title="Filme",Diva TV
@@ -197,6 +207,8 @@ http://iptvlive.stream:80/p/633864/c/73/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 http://iptvlive.stream:80/p/633864/c/72/u/223714/PtbbZTjXnPGtgnfyTEj4PE20axs6Kd
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/IDATV.ro.png" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fashion TV"  group-title="Wild",Fashion TV
+http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/208959.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://srv1.telek.me:8080/2108/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
