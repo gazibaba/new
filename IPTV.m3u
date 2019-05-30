@@ -74,7 +74,7 @@ http://iptvlive.stream:80/p/665172/c/25/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://nettv-xcruiser.com:8000/live/TJNkqmdKKE/slRqytk8co/7870.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
-http://nettv-xcruiser.com:8000/live/TJNkqmdKKE/slRqytk8co/7871.m3u8
+http://188.26.28.236:1985/play/a053/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://rosefli.com:25461/live/qqq/qqq/711.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
