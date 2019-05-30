@@ -14,7 +14,7 @@ http://188.26.28.236:1985/play/a06g/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/155780.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://188.208.134.155:9981/stream/channelid/1396283703
+http://petrosani.go.ro:9983/9983/stream/channelid/27085298
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://188.208.134.155:9981/stream/channelid/967481351
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
@@ -24,7 +24,7 @@ http://86.121.67.167:7522/upnp/channelstream/105
 #EXTINF:0, tvg-id="raz22" tvg-logo="https://static.iptv-epg.com/ro/B1.ro.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="raz7" tvg-logo="Logo N/A" tvg-name="ProTV News"  group-title="Generale",ProTV News
-http://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/index.m3u8
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:0, tvg-id="raz7" tvg-logo="Logo N/A" tvg-name="ProTV Chisinau HD"  group-title="Generale",ProTV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="raz20" tvg-logo="https://my.boboctv.com/channels/logo/digi24hd.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
@@ -34,9 +34,9 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u
 #EXTINF:0, tvg-id="raz19" tvg-logo="N/A" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 http://195.42.138.43/livertmp/plus/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/romania-tv.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://77.36.61.147/hls/channel6/adaptive.m3u8
+http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://188.208.134.155:9981/stream/channelid/1479585851
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/155448.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
 http://109.197.80.5:5843
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
@@ -54,13 +54,13 @@ http://188.26.28.236:8000/play/a003/index.m3u8
 #EXTINF:0, tvg-id="raz77" tvg-logo="https://my.boboctv.com/channels/logo/digisport-hd.jpg" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
 http://188.26.28.236:1985/play/a017/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digi-sport-2-hd.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
-http://5.38.202.237:9000/stream/channelid/1202007586
+http://51.255.135.234:8104/4080
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/digi-sport-2-hd.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
 http://188.26.28.236:1985/play/a018/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://rosefli.com:25461/live/qqq/qqq/706.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/65870.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://rosefli.com:25461/live/qqq/qqq/707.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210977.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/110982.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
@@ -156,7 +156,7 @@ http://petrosani.go.ro:9983/9983/stream/channelid/369509140
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/209570.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
-http://iptvlive.stream:80/p/633864/c/11/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
+http://iptvlive.stream:80/p/665172/c/49/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 http://188.26.28.236:1985/play/a065/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="N/A" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
@@ -168,7 +168,7 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/15.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
-http://185.162.141.69:9035/protv
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63000.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
 http://188.26.28.236:8000/play/a02d/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
@@ -176,9 +176,9 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63011.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/1044.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Discovery ID"  group-title="Wild",Discovery ID
-http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/232.m3u8
+http://188.26.28.236:8000/play/a02j/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi World"  group-title="Wild",Digi World
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84705.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63012.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Wild",Digi Life
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/34.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
@@ -188,15 +188,17 @@ http://188.26.28.236:8000/play/a02m/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/75030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
-http://77.36.61.147/hls/channel1/adaptive.m3u8
+http://89.38.8.131:39520/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
 http://188.26.28.236:8000/play/a007/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VP HD"  group-title="Wild",VP HD
-http://77.36.61.147/hls/channel2/adaptive.m3u8
+http://89.38.8.130:39437/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/155783.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="History"  group-title="Wild",History
 http://188.26.28.236:8000/play/a02k/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
+https://d201h06fdwdct7.cloudfront.net/w2_cinethronix/ngrp:stream_all/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/155785.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Wild",Viasat History
@@ -212,7 +214,9 @@ http://86.121.67.167:7522/upnp/channelstream/9
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
 http://petrosani.go.ro:9983/9983/stream/channelid/2027865125
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
-https://tinyurl.com/y7to7edt
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
 http://86.121.67.167:7522/upnp/channelstream/0
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR HD"  group-title="Diverse",TVR HD
@@ -234,7 +238,7 @@ http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/298.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
 http://188.26.28.236:8000/play/a02g/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
-http://srv1.telek.me:8080/2549/9552/f6549bf2df26917d7e5cc8f400ef664135b1b6bd
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156199.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63029.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
@@ -246,7 +250,7 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/118377.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
-http://lightningstreams.com:8080/live/Rodney-Pinard/zBSEuyV9wQ/23280.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/113024.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
 https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
@@ -267,22 +271,28 @@ http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/258.m3u8
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/258.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dream TV"  group-title="Muzica",Dream TV
 https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diaspora TV HD"  group-title="Muzica",Diaspora TV HD
+http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Etnic TV HD"  group-title="Muzica",Etnic TV HD
+http://diasporamedia.go.ro:1935/etnictv/live/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miorita TV HD"  group-title="Muzica",Miorita TV HD
+http://diasporamedia.go.ro:1935/mioritatv/live/playlist.m3u8
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://static.iptv-epg.com/ro/Favorit.ro.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://94.68.19.254:4000/play/a0ft
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Hora TV"  group-title="Muzica",Hora TV
 http://iptvlive.stream:80/p/639852/c/49/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inedit TV"  group-title="Muzica",Inedit TV
-http://188.26.28.236:1985/play/a06i/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inedit TV HD"  group-title="Muzica",Inedit TV HD
+http://encoder.inedittv.ro:9090/seconds2hls/live.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
-https://tinyurl.com/ycp522nm
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Somax TV"  group-title="Muzica",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf"  group-title="Muzica",Taraf TV
-http://www.sansat.net:25461/live/024863388812/xVDvEcBwN9bqivz/29440.m3u8
+http://d201h06fdwdct7.cloudfront.net/taraf/ngrp:stream_all/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
 http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
-https://tinyurl.com/y8hx7q2b
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dibi TV HD"  group-title="Muzica",Dibi TV HD
 https://tinyurl.com/y87ymyxk
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
@@ -290,7 +300,7 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 https://tinyurl.com/ycsy3o9e
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BIT TV"  group-title="Locale",BIT TV
-https://tinyurl.com/ydfat6lt
+http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
 http://mn-nl.mncdn.com/tvr_moldova/smil:TVRMOLDOVA.smil/chunklist_w990369866_b1200000.m3u8?__mn_sid=11568739683040144408
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Cluj"  group-title="Locale",TVR Cluj
@@ -302,11 +312,19 @@ http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR +"  group-title="Locale",TVR +
 http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/chunklist_w85719640.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
-http://77.36.61.147/hls/channel3/adaptive.m3u8
+http://77.36.61.147/hls/channel3/bitrate4.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
+http://193.34.109.10:8090
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV City"  group-title="Locale",TV City
+http://46.20.136.59/live3/_definst_/citytv/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Columna TV"  group-title="Locale",Columna TV
 http://77.36.61.147/hls/channel3/adaptive.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Traditii TV"  group-title="Locale",Traditii TV
-http://77.36.61.147/hls/channel5/adaptive.m3u8
+http%3a//77.36.61.147/hls/channel5/bitrate3.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Acum TV"  group-title="Locale",Acum TV
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Iasi TV Life"  group-title="Locale",Iasi TV Life
@@ -320,27 +338,27 @@ https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 Tv"  group-title="Locale",6 Tv
 http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
-http://5.12.48.182:9271/stream/direct?channel=2:490000:1:236:519
+http://89.38.8.130:39419/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Job TV HD"  group-title="Locale",Job TV HD
 http://mediafilmcenter.eu:1935/live/myStream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Evil Angel(18+)"  group-title="Erotice",Evil Angel(18+)
-http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/111434.m3u8
+http://185.3.19.102:1234/udp/239.1.21.71:1234
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bizare Adult TV(18+)"  group-title="Erotice",Bizare Adult TV
-http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/96542.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Blue Hustler TV(18+)"  group-title="Erotice",Blue Hustler TV(18+)
+http://185.3.19.102:1234/udp/239.1.6.36:1234
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
-http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/103840.m3u8
+http://79.133.124.198:999/udp/239.191.254.13:15285
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Redlight HD(18+)"  group-title="Erotice",Redlight HD(18+)
-http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/96551.m3u8
+http://79.133.124.198:999/udp/239.191.254.38:15285
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Penthouse(18+)"  group-title="Erotice",Penthouse(18+)
-http://l.land02.live:8080/live/cPwP3P2XDV/xvTPbKnw5H/154710.m3u8
+http://79.133.124.198:999/udp/239.191.254.161:15285
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PassieXXX(18+)"  group-title="Erotice",PassieXXX(18+)
-
+http://79.133.124.198:999/udp/239.191.255.6:15285
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/trinitas-tv.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
 http://d201h06fdwdct7.cloudfront.net/trinitas/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
@@ -348,4 +366,4 @@ http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/credo-tv.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
-http://81.182.131.186:9000/stream/channelid/168392602
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
