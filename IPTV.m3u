@@ -253,7 +253,7 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/118377.m3u8
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/113024.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://radiozu.ro/img/logo-zu.png" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d4/Zulogo.jpg" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
 https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
@@ -299,19 +299,19 @@ http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
 https://tinyurl.com/y87ymyxk
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
+#EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 https://tinyurl.com/ycsy3o9e
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BIT TV"  group-title="Locale",BIT TV
+#EXTINF:0, tvg-id="" tvg-logo="https://bittv.info/wp-content/uploads/2018/10/logo-nou-2018.png" tvg-name="BIT TV"  group-title="Locale",BIT TV
 http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
+#EXTINF:0, tvg-id="" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
 http://mn-nl.mncdn.com/tvr_moldova/smil:TVRMOLDOVA.smil/chunklist_w990369866_b1200000.m3u8?__mn_sid=11568739683040144408
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Cluj"  group-title="Locale",TVR Cluj
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/tvr-cluj.png" tvg-name="TVR Cluj"  group-title="Locale",TVR Cluj
 http://mn-nl.mncdn.com/tvr_moldova/smil:TVRCLUJ.smil/chunklist_w720477026_b1200000.m3u8?__mn_sid=7215660395487330620
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Craiova"  group-title="Locale",TVR Craiova
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tvr-craiova.png" tvg-name="TVR Craiova"  group-title="Locale",TVR Craiova
 http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/chunklist_w570772822_b1200000.m3u8?__mn_sid=8512025290270500067
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR Iasi"  group-title="Locale",TVR Iasi
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/tvr-iasi.png" tvg-name="TVR Iasi"  group-title="Locale",TVR Iasi
 http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000.m3u8?__mn_sid=14755997706819151085
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR +"  group-title="Locale",TVR +
+#EXTINF:0, tvg-id="" tvg-logo="https://www.tvrplus.ro/img/logo.png" tvg-name="TVR +"  group-title="Locale",TVR +
 http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/chunklist_w85719640.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
 http://77.36.61.147/hls/channel3/bitrate4.m3u8
