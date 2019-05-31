@@ -151,21 +151,21 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/160927.m3u8
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 http://188.26.28.236:8000/play/a006/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2"  group-title="Filme",PRO 2
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
 http://petrosani.go.ro:9983/9983/stream/channelid/369509140
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/209570.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
 http://iptvlive.stream:80/p/665172/c/49/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/BollywoodTV.ro.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 http://188.26.28.236:1985/play/a065/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="N/A" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/112901.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
+#EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://89.38.8.131:39553/
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63030.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/15.m3u8
