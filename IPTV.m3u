@@ -300,7 +300,7 @@ https://tinyurl.com/y87ymyxk
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
-https://tinyurl.com/ycsy3o9e
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://bittv.info/wp-content/uploads/2018/10/logo-nou-2018.png" tvg-name="BIT TV"  group-title="Locale",BIT TV
 http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
@@ -313,59 +313,57 @@ http://mn-nl.mncdn.com/tvr_craiova/smil:TVRCRAIOVA.smil/chunklist_w570772822_b12
 http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000.m3u8?__mn_sid=14755997706819151085
 #EXTINF:0, tvg-id="" tvg-logo="https://www.tvrplus.ro/img/logo.png" tvg-name="TVR +"  group-title="Locale",TVR +
 http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/chunklist_w85719640.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://www.bucurestitv.net/wp-content/uploads/2016/02/sigla-bucuresti-tv.gif" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
 http://77.36.61.147/hls/channel3/bitrate4.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/actualitatea-tv.png" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/40cc1685b089b83039c635980cc4ec50.png" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
 http://193.34.109.10:8090
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TV City"  group-title="Locale",TV City
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/f8c2493fd994712dfd941dc5bf6d388d.png" tvg-name="TV City"  group-title="Locale",TV City
 http://46.20.136.59/live3/_definst_/citytv/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Columna TV"  group-title="Locale",Columna TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5ba9ca9b011fd38a9db787d9948e1340.png" tvg-name="Columna TV"  group-title="Locale",Columna TV
 http://77.36.61.147/hls/channel3/adaptive.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Traditii TV"  group-title="Locale",Traditii TV
-http%3a//77.36.61.147/hls/channel5/bitrate3.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Acum TV"  group-title="Locale",Acum TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/a97d39ea813ef06a57a20098026e9a66.png" tvg-name="Traditii TV"  group-title="Locale",Traditii TV
+https://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://acum-tv.ro/wp-content/uploads/2019/01/logo-acum-tv-xs-1-300x98.png" tvg-name="Acum TV"  group-title="Locale",Acum TV
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Iasi TV Life"  group-title="Locale",Iasi TV Life
+#EXTINF:0, tvg-id="" tvg-logo="http://www.iasitvlife.ro/images/itv-logo.png" tvg-name="Iasi TV Life"  group-title="Locale",Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/a7tv.png" tvg-name="A 7 TV HD"  group-title="Locale",A 7 TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://a7tv.ro/wp-content/uploads/2017/12/logo-a7tv.png" tvg-name="A 7 TV HD"  group-title="Locale",A 7 TV HD
 http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Intermedia TV"  group-title="Locale",Intermedia TV
+#EXTINF:0, tvg-id="" tvg-logo="http://www.intermediatv.ro/wp-content/uploads/2017/01/logo.png" tvg-name="Intermedia TV"  group-title="Locale",Intermedia TV
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Canal Regional"  group-title="Locale",Canal Regional
+#EXTINF:0, tvg-id="" tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png" tvg-name="Canal Regional"  group-title="Locale",Canal Regional
 https://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 Tv"  group-title="Locale",6 Tv
-http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Job TV HD"  group-title="Locale",Job TV HD
+#EXTINF:0, tvg-id="" tvg-logo="http://jobtv.ro/static/img/jtv_logo.5528893.png" tvg-name="Job TV HD"  group-title="Locale",Job TV HD
 http://mediafilmcenter.eu:1935/live/myStream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Evil Angel(18+)"  group-title="Erotice",Evil Angel(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0f14e639bc15bcfc5471b032bb7ad236.png" tvg-name="Evil Angel(18+)"  group-title="Erotice",Evil Angel(18+)
 http://dynproject-tv.ddns.net:8000/live/Z387P815rn/Nt1Yf9eFBA/38047.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
-https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
+https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST Shemale(18+)"  group-title="Erotice",AST Shemale(18+)
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a5f94ce3c524b30784606815ad330e59.png" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f561aaf6ef0bf14d4208bb46a4ccb3ad.png" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Blue Hustler TV(18+)"  group-title="Erotice",Blue Hustler TV(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1d557a00a3b02b2848cf3d5a701c741.png" tvg-name="Blue Hustler TV(18+)"  group-title="Erotice",Blue Hustler TV(18+)
 http://dynproject-tv.ddns.net:8000/live/Z387P815rn/Nt1Yf9eFBA/878.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7a3dd1b1de6a97b599768aa52df85a7d.png" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
 http://79.133.124.198:999/udp/239.191.254.13:15285
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Redlight HD(18+)"  group-title="Erotice",Redlight HD(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Redlight HD(18+)" group-title="Erotice",Redlight HD(18+)
 http://79.133.124.198:999/udp/239.191.254.38:15285
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Penthouse(18+)"  group-title="Erotice",Penthouse(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Penthouse(18+)"  group-title="Erotice",Penthouse(18+)
 http://dynproject-tv.ddns.net:8000/live/Z387P815rn/Nt1Yf9eFBA/789.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PassieXXX(18+)"  group-title="Erotice",PassieXXX(18+)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5bcbaf9b6d17f6eec7e186f0ff00acf9.png" tvg-name="Passion XXX(18+)"  group-title="Erotice",Passion XXX(18+)
 http://79.133.124.198:999/udp/239.191.255.6:15285
-#EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/trinitas-tv.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
 http://d201h06fdwdct7.cloudfront.net/trinitas/ngrp:stream_all/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bc6006e230a58f649078fd6eb7575732.png" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/credo-tv.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
