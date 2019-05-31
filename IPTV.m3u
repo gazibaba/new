@@ -231,73 +231,73 @@ http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/chunklist_w188619173_b1200000.m3u8?_
 https://tinyurl.com/02protvinternational
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://188.26.28.236:8000/play/a02h/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6bee7677af2813c27e06499b0ac63cce.png" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
 http://188.26.28.236:8000/play/a02l/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/298.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Megamax"  group-title="Desene",Megamax
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7c8755845c8a22c45293f336eab9f2e.png" tvg-name="Megamax"  group-title="Desene",Megamax
 http://188.26.28.236:8000/play/a02g/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Desene",Minimax
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156199.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/63029.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
 http://188.26.28.236:8000/play/a00c/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b839db82bc37f1340296c7c3b81767c8.png" tvg-name="Nickelodeon"  group-title="Desene",Nickelodeon HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/62996.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/118377.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/113024.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
+#EXTINF:0, tvg-id="" tvg-logo="https://radiozu.ro/img/logo-zu.png" tvg-name="Radio ZU Live"  group-title="Muzica",Radio ZU Live
 https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
-#EXTINF:0, tvg-id="raz8" tvg-logo="https://my.boboctv.com/channels/logo/kisstv.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
+#EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="U Tv"  group-title="Muzica","U Tv
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U Tv"  group-title="Muzica",U Tv
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/192689.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Music Plus HD"  group-title="Muzica",Music Plus HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4d8333e47738dfdf081c85cdf2bfeba.png" tvg-name="Music Plus HD"  group-title="Muzica",Music Plus HD
 http://stream.musicplus.hu:2052/10040/stream.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/45de33b13919a82e82614c160f25ac43.png" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz Hits"  group-title="Muzica",Mooz Hits
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2acaad381c4a90a07845b7b328a28fb.png" tvg-name="Mooz Hits"  group-title="Muzica",Mooz Hits
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/258.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Mooz HD"  group-title="Muzica",Mooz HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz HD"  group-title="Muzica",Mooz HD
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/258.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dream TV"  group-title="Muzica",Dream TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/def6e6a0f57052cc936abe5f49207b85.png" tvg-name="Dream TV"  group-title="Muzica",Dream TV
 https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Diaspora TV HD"  group-title="Muzica",Diaspora TV HD
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV HD"  group-title="Muzica",Diaspora TV HD
 http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Etnic TV HD"  group-title="Muzica",Etnic TV HD
+#EXTINF:0, tvg-id="" tvg-logo="http://www.etnictv.ro/images/logo-etnictv.png" tvg-name="Etnic TV HD"  group-title="Muzica",Etnic TV HD
 http://diasporamedia.go.ro:1935/etnictv/live/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miorita TV HD"  group-title="Muzica",Miorita TV HD
+#EXTINF:0, tvg-id="" tvg-logo="http://www.mioritatv.ro/images/logo/logo.png" tvg-name="Miorita TV HD"  group-title="Muzica",Miorita TV HD
 http://diasporamedia.go.ro:1935/mioritatv/live/playlist.m3u8
-#EXTINF:0, tvg-id="raz71" tvg-logo="https://static.iptv-epg.com/ro/Favorit.ro.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
+#EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://94.68.19.254:4000/play/a0ft
-#EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="Etno"  group-title="Muzica",Etno
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Hora TV"  group-title="Muzica",Hora TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/04393df50c60d32ceb53792b8f34a18c.png" tvg-name="Hora TV"  group-title="Muzica",Hora TV
 http://iptvlive.stream:80/p/639852/c/49/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Inedit TV HD"  group-title="Muzica",Inedit TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3da28374bf5b27f3a2e36d28505871dd.png" tvg-name="Inedit TV HD"  group-title="Muzica",Inedit TV HD
 http://encoder.inedittv.ro:9090/seconds2hls/live.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
+#EXTINF:0, tvg-id="" tvg-logo="https://nest-tv.ro/wp-content/uploads/2018/10/nest-tv-live.jpg" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Somax TV"  group-title="Muzica",Somax TV
+#EXTINF:0, tvg-id="" tvg-logo="https://www.somaxtv.com/wp-content/uploads/2015/04/logo_somax_t3.png" tvg-name="Somax TV"  group-title="Muzica",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Taraf"  group-title="Muzica",Taraf TV
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e037dec17e950ad06d3786e56cbf310e.png" tvg-name="Taraf"  group-title="Muzica",Taraf TV
 http://d201h06fdwdct7.cloudfront.net/taraf/ngrp:stream_all/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://www.supertv.ro/wp-content/uploads/2019/04/logo-gofm-and-super-tv.png" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
 http://live.supertv.ro/live/smil:hls.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Dibi TV HD"  group-title="Muzica",Dibi TV HD
+#EXTINF:0, tvg-id="" tvg-logo="http://www.dibitv.ro/img/logo/sigla_dibitv.png" tvg-name="Dibi TV HD"  group-title="Muzica",Dibi TV HD
 https://tinyurl.com/y87ymyxk
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
 http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 https://tinyurl.com/ycsy3o9e
