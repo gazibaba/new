@@ -209,27 +209,27 @@ http://188.26.28.236:8000/play/a02i/index.m3u8
 http://188.26.28.236:8000/play/a014/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/41.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://srv1.telek.me:8080/2937/9147/de93b51921d792eb8b7d5a626eece438f76da6f8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
 http://petrosani.go.ro:9983/9983/stream/channelid/2027865125
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
+#EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
+#EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS.png" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
+#EXTINF:0, tvg-id="" tvg-logo="https://new.6tv.ro/wp-content/uploads/2017/08/6tv_logo.png" tvg-name="6 TV"  group-title="Diverse",6 TV
 https://stream.chrominance.ro/enescu/encoder1/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR HD"  group-title="Diverse",TVR HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5536729c5a1e343b547f59c95825f3e0.png" tvg-name="TVR HD"  group-title="Diverse",TVR HD
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/tvr-3.png" tvg-name="TVR 3"  group-title="Diverse",TVR 3
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/859c1d753b0d0ed6d83ed0b03cdc2c23.png" tvg-name="TVR 3"  group-title="Diverse",TVR 3
 http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
-#EXTINF:0, tvg-id="raz15" tvg-logo="Logo N/A" tvg-name="TVR International"  group-title="Diverse",TVR International
+#EXTINF:0, tvg-id="raz15" tvg-logo="https://iptv.live/images/logo/channel/smalls/58301a625c19be6871c1f3f992e534c4.png" tvg-name="TVR International"  group-title="Diverse",TVR International
 http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/chunklist_w188619173_b1200000.m3u8?__mn_sid=3569091635672452643
-#EXTINF:0, tvg-id="raz47" tvg-logo="https://my.boboctv.com/channels/logo/protv-international.png" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
+#EXTINF:0, tvg-id="raz47" tvg-logo="https://iptv.live/images/logo/channel/smalls/d277e55bff631b0848374dd0858df0aa.png" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
 https://tinyurl.com/02protvinternational
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Tele III"  group-title="Diverse",Tele III
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
 http://188.26.28.236:8000/play/a02h/index.m3u8
