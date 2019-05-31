@@ -16,7 +16,7 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/155780.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://petrosani.go.ro:9983/9983/stream/channelid/27085298
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://188.208.134.155:9981/stream/channelid/967481351
+http://dibo.live:8080/live/Antonio1/Antonio/215025.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -34,7 +34,7 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 http://195.42.138.43/livertmp/plus/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
+https://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3"  group-title="Stiri",Antena 3
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/155448.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Antena_3_HD.png/revision/latest?cb=20180929185744" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
@@ -193,6 +193,8 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/75030.m3u8
 http://89.38.8.131:39520/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1bee82147f8df51adfd25ddfbc1fa82.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
 http://188.26.28.236:8000/play/a007/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
+http://dibo.live:8080/live/Antonio1/Antonio/207650.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
 http://89.38.8.130:39437/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f764e7fd41d145baf85a911201a35b0b.png" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
@@ -232,7 +234,7 @@ https://tinyurl.com/02protvinternational
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://188.26.28.236:8000/play/a02h/index.m3u8
+http://dibo.live:8080/live/Antonio1/Antonio/63027.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6bee7677af2813c27e06499b0ac63cce.png" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
 http://188.26.28.236:8000/play/a02l/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
@@ -314,7 +316,7 @@ http://mn-nl.mncdn.com/tvr_iasi/smil:TVRIASI.smil/chunklist_w1257562025_b1200000
 #EXTINF:0, tvg-id="" tvg-logo="https://www.tvrplus.ro/img/logo.png" tvg-name="TVR +"  group-title="Locale",TVR +
 http://89.136.209.25:1935/cartons/mp4:tvr-plus-geoip.mp4/chunklist_w85719640.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.bucurestitv.net/wp-content/uploads/2016/02/sigla-bucuresti-tv.gif" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
-http://77.36.61.147/hls/channel3/bitrate4.m3u8
+https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/actualitatea-tv.png" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/40cc1685b089b83039c635980cc4ec50.png" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
