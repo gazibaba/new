@@ -8,7 +8,7 @@ http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66902.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 http://89.38.8.131:39532/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1"  group-title="Generale",Antena 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84714.m3u8
+http://petrosani.go.ro:9983/9983/stream/channelid/204773398
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://188.26.28.236:1985/play/a06g/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Generale",Kanal D
@@ -20,7 +20,7 @@ http://188.208.134.155:9981/stream/channelid/967481351
 #EXTINF:0, tvg-id="raz31" tvg-logo="https://my.boboctv.com/channels/logo/national-tv.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="raz31" tvg-logo="N/A" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
-http://86.121.67.167:7522/upnp/channelstream/105
+http://iptvlive.stream:80/p/665172/c/7/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
 #EXTINF:0, tvg-id="raz22" tvg-logo="https://static.iptv-epg.com/ro/B1.ro.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="raz7" tvg-logo="Logo N/A" tvg-name="ProTV News"  group-title="Generale",ProTV News
@@ -210,7 +210,7 @@ https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/41.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
-http://86.121.67.167:7522/upnp/channelstream/9
+http://srv1.telek.me:8080/2937/9147/de93b51921d792eb8b7d5a626eece438f76da6f8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
 http://petrosani.go.ro:9983/9983/stream/channelid/2027865125
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
@@ -218,7 +218,7 @@ http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="6 TV"  group-title="Diverse",6 TV
-http://86.121.67.167:7522/upnp/channelstream/0
+https://stream.chrominance.ro/enescu/encoder1/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TVR HD"  group-title="Diverse",TVR HD
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://tx.gcntv.net/channels/logo/tvr-3.png" tvg-name="TVR 3"  group-title="Diverse",TVR 3
