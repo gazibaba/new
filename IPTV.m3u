@@ -260,7 +260,7 @@ http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/mtv-romania.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.iptv-epg.com/ro/MusicChannel.ro.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84711.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/192689.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Music Plus HD"  group-title="Muzica",Music Plus HD
 http://stream.musicplus.hu:2052/10040/stream.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
