@@ -342,7 +342,7 @@ http://89.38.8.130:39419/
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Job TV HD"  group-title="Locale",Job TV HD
 http://mediafilmcenter.eu:1935/live/myStream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Evil Angel(18+)"  group-title="Erotice",Evil Angel(18+)
-http://185.3.19.102:1234/udp/239.1.21.71:1234
+http://dynproject-tv.ddns.net:8000/live/Z387P815rn/Nt1Yf9eFBA/38047.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
@@ -350,13 +350,13 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Blue Hustler TV(18+)"  group-title="Erotice",Blue Hustler TV(18+)
-http://185.3.19.102:1234/udp/239.1.6.36:1234
+http://dynproject-tv.ddns.net:8000/live/Z387P815rn/Nt1Yf9eFBA/878.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
 http://79.133.124.198:999/udp/239.191.254.13:15285
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Redlight HD(18+)"  group-title="Erotice",Redlight HD(18+)
 http://79.133.124.198:999/udp/239.191.254.38:15285
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Penthouse(18+)"  group-title="Erotice",Penthouse(18+)
-http://79.133.124.198:999/udp/239.191.254.161:15285
+http://dynproject-tv.ddns.net:8000/live/Z387P815rn/Nt1Yf9eFBA/789.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PassieXXX(18+)"  group-title="Erotice",PassieXXX(18+)
 http://79.133.124.198:999/udp/239.191.255.6:15285
 #EXTINF:0, tvg-id="" tvg-logo="https://my.boboctv.com/channels/logo/trinitas-tv.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
