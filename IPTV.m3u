@@ -12,11 +12,11 @@ http://petrosani.go.ro:9983/9983/stream/channelid/204773398
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://188.26.28.236:1985/play/a06g/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13410.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/155780.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://petrosani.go.ro:9983/9983/stream/channelid/27085298
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13399.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/215025.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
 http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
@@ -44,7 +44,7 @@ https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w222052
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit TV"  group-title="Stiri",Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
-http://iptvlive.stream:80/p/633864/c/77/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/75025.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
 https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/954e441ada12cfc3172940b4a4997bba.png" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
@@ -58,11 +58,11 @@ http://51.255.135.234:8104/4080
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
 http://188.26.28.236:1985/play/a018/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-http://tv.iptvsensation.org:6500/live/2vHrJjXvZ2/zDz6r8Khir/13424.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/65870.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
 http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/210975.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://tv.iptvsensation.org:6500/live/2vHrJjXvZ2/zDz6r8Khir/13423.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/210977.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/210977.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
@@ -74,7 +74,7 @@ http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/89362.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b6065c03e02d5f6c6eb6f9fc39c6047.png" tvg-name="Telekom Sport 4 HD"  group-title="Sport",Telekom Sport 4 HD
 http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/113005.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
-http://tv.iptvsensation.org:6500/live/2vHrJjXvZ2/zDz6r8Khir/13418.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/145815.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
 http://188.26.28.236:1985/play/a053/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
@@ -82,7 +82,7 @@ http://rosefli.com:25461/live/qqq/qqq/711.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
 http://188.26.28.236:1985/play/a054/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
-http://iptvlive.stream:80/p/639852/c/65/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/62972.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 http://62.210.246.109:25461/live/a7ZcoUHPBz/9Bxbfb59cv/8.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
@@ -95,18 +95,16 @@ http://188.26.28.236:8000/play/a026/index.m3u8
 http://188.26.28.236:1985/play/a056/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ea9d392f2db3aa7a2e9b2266c5503953.png" tvg-name="TV ONE HD"  group-title="Filme",TV ONE HD
 http://ONETV.srfms.com:1935/ONETV/livestream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f3af56606e24a8f15cecc0a4f4822bf.png" tvg-name="Vizyon TV HD"  group-title="Filme",Vizyon TV HD
-http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/214061.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO 1"  group-title="Filme",HBO 1
 http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/24.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO 1 HD"  group-title="Filme",HBO 1 HD
 http://188.26.28.236:1985/play/a05b/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://iptv.iptivihd.com:8000/live/goran1/goran1/2152.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/63006.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
 http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/26.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13412.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/63005.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
 http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/25.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
@@ -116,7 +114,7 @@ http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/211003.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
 http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/40.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://iptvlive.stream:80/p/374427/c/23/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/90209.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
 http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/38.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
@@ -128,7 +126,7 @@ http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/50.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0874f230b6ba300544ba4f90689d9a72.png" tvg-name="Cinemax HD"  group-title="Filme",Cinemax HD
 http://tv.iptvsensation.org:6500/live/2vHrJjXvZ2/zDz6r8Khir/16070.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18551.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/63026.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5b46c0dff321e592825956a2a1b8506a.png" tvg-name="Cinemax 2 HD"  group-title="Filme",Cinemax 2 HD
 http://62.210.246.109:25461/live/yhT4Vzn1eM/f6w5AJpCx6/36.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Film Box"  group-title="Filme",Film Box
@@ -144,7 +142,7 @@ http://188.26.28.236:1985/play/a064/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva TV"  group-title="Filme",Diva TV
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/211004.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://iptv.iptivihd.com:8000/live/goran1/goran1/2165.m3u8
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/62988.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62993.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
@@ -166,7 +164,7 @@ http://188.26.28.236:8000/play/a006/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
 http://petrosani.go.ro:9983/9983/stream/channelid/369509140
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
-http://iptvlive.stream:80/p/633864/c/20/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
+http://190.2.145.164:8080/live/eweLqMnNke/38dcjdHH89/75024.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
 http://iptvlive.stream:80/p/665172/c/49/u/223714/0FZPXEJUPWw25caw1v1jnQXdS7Ryta
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
